@@ -62,7 +62,7 @@
     <link href="http://yoursite.com/2015/12/31/google-cardboard/"/>
     <id>http://yoursite.com/2015/12/31/google-cardboard/</id>
     <published>2015-12-31T04:54:17.000Z</published>
-    <updated>2016-07-09T18:43:51.000Z</updated>
+    <updated>2016-07-09T18:53:45.000Z</updated>
     
     <content type="html">&lt;p&gt;喜得 &lt;a href=&quot;https://store.google.com/product/nexus_6p&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google 在華爲孃胎裏孕得的親兒子 Nexus 6P&lt;/a&gt; 後，何不妨嘗試一下 Google 廉價的虛擬現實體驗—— &lt;a href=&quot;https://www.google.com/get/cardboard/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google Cardboard&lt;/a&gt; 呢？恰巧第三方的 Cardboard 開發商都支持國際快遞，於是便在 &lt;a href=&quot;http://www.imcardboard.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;I AM CARDBOARD&lt;/a&gt; 的官網上選了一個 &lt;a href=&quot;http://www.imcardboard.com/eva/giant-version-v2-0-eva-vr-kit-with-nfc-black.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EVA Headset&lt;/a&gt;。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;先上圖：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/w68BQIe.jpg&quot; alt=&quot;1&quot;&gt;&lt;img src=&quot;http://i.imgur.com/6CEGwoW.jpg&quot; alt=&quot;2&quot;&gt;&lt;img src=&quot;http://i.imgur.com/CVRa4rp.jpg&quot; alt=&quot;3&quot;&gt;&lt;/p&gt;
@@ -88,6 +88,8 @@
       <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
     
     
+      <category term="tech" scheme="http://yoursite.com/tags/tech/"/>
+    
   </entry>
   
   <entry>
@@ -95,11 +97,11 @@
     <link href="http://yoursite.com/2015/12/25/my-father/"/>
     <id>http://yoursite.com/2015/12/25/my-father/</id>
     <published>2015-12-25T14:49:54.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
+    <updated>2016-07-09T18:49:09.000Z</updated>
     
     <content type="html">&lt;p&gt;我爸竟然在聖誕夜前夕用英文給我寫了一封 Email，如下：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/51rH5mx.png&quot; alt=&quot;email&quot;&gt;&lt;/p&gt;
-&lt;p&gt;毫無規律的首行縮進，奇怪的 &amp;ldquo;father &amp;amp; son&amp;rdquo; title，雜糅着親切的中文語法，還真讓我有點小感動。這個時代哪裏還聽說有父親給兒子發電郵的，還是用的英文，哈哈，我爸真是太酷了。&lt;/p&gt;
+&lt;p&gt;毫無規律的首行縮進，奇怪的 &amp;ldquo;father &amp;amp; son&amp;rdquo; title，雜糅着親切的中文語法，還真讓我有點小感動。這個時代哪裏還聽說有父親給兒子發電郵的，還是用的英文，哈哈，我爸真是太酷了。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;我的程序員父親&quot;&gt;&lt;a href=&quot;#我的程序員父親&quot; class=&quot;headerlink&quot; title=&quot;我的程序員父親&quot;&gt;&lt;/a&gt;我的程序員父親&lt;/h2&gt;&lt;p&gt;我算是這個電子信息技術高速發展的時代下的幸運兒罷，在大多數同齡人都不知道 PC 是個什麼東西的時候，我便與它爲伴了。那時家裏的電腦還是一臺裝載着黑白顯示器、5¼吋軟驅以及 &lt;a href=&quot;https://www.wikiwand.com/zh-hant/MS-DOS&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MS-DOS 系統&lt;/a&gt;的古董機器。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.wikiwand.com/zh-hant/%E8%BD%AF%E7%9B%98&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;5¼吋軟盤&lt;/a&gt;，也就是大家可能見過的 3.5 吋軟盤的爸爸，它長這樣〔一般單面容量 160KB，低密度 360KB〕：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://www.fileformat.info/media/5.25-floppy/top.jpg&quot; alt=&quot;FloppyDisk&quot;&gt;&lt;/p&gt;
@@ -128,14 +130,12 @@
     
       &lt;p&gt;我爸竟然在聖誕夜前夕用英文給我寫了一封 Email，如下：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;http://i.imgur.com/51rH5mx.png&quot; alt=&quot;email&quot;&gt;&lt;/p&gt;
-&lt;p&gt;毫無規律的首行縮進，奇怪的 &amp;ldquo;father &amp;amp; son&amp;
+&lt;p&gt;毫無規律的首行縮進，奇怪的 &amp;ldquo;father &amp;amp; son&amp;rdquo; title，雜糅着親切的中文語法，還真讓我有點小感動。這個時代哪裏還聽說有父親給兒子發電郵的，還是用的英文，哈哈，我爸真是太酷了。&lt;br&gt;
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
     
-    
-      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
     
   </entry>
   
@@ -144,10 +144,9 @@
     <link href="http://yoursite.com/2015/12/21/respect-and-love/"/>
     <id>http://yoursite.com/2015/12/21/respect-and-love/</id>
     <published>2015-12-21T14:19:03.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
+    <updated>2016-07-09T18:50:38.000Z</updated>
     
-    <content type="html">&lt;p&gt;在這個被英法分別殖民過的&lt;a href=&quot;https://www.wikiwand.com/en/Mauritius#&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;非洲大陸東邊的印度洋小島&lt;/a&gt;上，生活着近七成的印度人，近三成的當地人，以及少量的歐洲人與華人後裔；其中，信奉印度教的就有近一半的人口，另有三成多的天主教，近兩成的伊斯蘭教。聽起來不可思議，但這類種族、語言及文化的大融合卻是真實存在於這樣一個小地方的。&lt;/p&gt;
-&lt;p&gt;一個年近四十的當地朋友說他在前幾天和他女友分手了，直接原因便是，他的家庭是天主教教徒，而女友則信奉印度教。女友想把他遊說成印度教教徒，即便他自己無所謂，可家人還是不能同意，最終不了了之。&lt;/p&gt;
+    <content type="html">&lt;p&gt;在這個被英法分別殖民過的&lt;a href=&quot;https://www.wikiwand.com/en/Mauritius#&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;非洲大陸東邊的印度洋小島&lt;/a&gt;上，生活着近七成的印度人，近三成的當地人，以及少量的歐洲人與華人後裔；其中，信奉印度教的就有近一半的人口，另有三成多的天主教，近兩成的伊斯蘭教。聽起來不可思議，但這類種族、語言及文化的大融合卻是真實存在於這樣一個小地方的。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;一個年近四十的當地朋友說他在前幾天和他女友分手了，直接原因便是，他的家庭是天主教教徒，而女友則信奉印度教。女友想把他遊說成印度教教徒，即便他自己無所謂，可家人還是不能同意，最終不了了之。&lt;/p&gt;
 &lt;p&gt;先不論這個故事可信與否，愛侶之間由於信仰及觀念不合而分開的例子並不少見。先不談這對情侶對於彼此真心相愛與否，即便是兩個素昧平生之人，尊重對方的信仰亦是雙方能夠平等相處的前提。情侶間若覺得這類「尊重」會讓彼此的關係略顯「生分」，從而不去在意這些「基本禮節」，那兩人的關係必定是不平等的。雖然我們沒有理由認爲，「不平等的關係」就一定不能造就一對情人鸞鳳和鳴、白頭相守，歷史上各個帝王與其愛妃們的神仙故事便已經證明了這種婚姻的存在；但作爲生活在現代文明下的你我他，沒有人想回到那個一樁姻緣定終身的媒妁社會，沒有人想回到那樣一個戀愛不自由、婚姻不平等的時代。&lt;/p&gt;
 &lt;p&gt;宗教的本質不是我信基督，你信安拉，他信釋迦牟尼；而是，從某種意義上講，通過不同方式達到的一種自我修行，其目的無不是爲了讓這個世界變得和平、充滿善，減輕自我的痛苦，以成爲一個更好的自己。選擇一種宗教，只是選擇了一種文化背景，選擇了一種修行的方式，一種自我交流的語言。即便對於沒有宗教信仰的人群來說，不同的人也有截然不同的方式來看待這個世界，評判事物的價值以及提升自己的內在修養；這些東西說白了就是我們自己的宗教信仰。&lt;/p&gt;
 &lt;hr&gt;
@@ -162,14 +161,12 @@
     
     <summary type="html">
     
-      &lt;p&gt;在這個被英法分別殖民過的&lt;a href=&quot;https://www.wikiwand.com/en/Mauritius#&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;非洲大陸東邊的印度洋小島&lt;/a&gt;上，生活着近七成的印度人，近三成的當地人，以及少量的歐洲人
+      &lt;p&gt;在這個被英法分別殖民過的&lt;a href=&quot;https://www.wikiwand.com/en/Mauritius#&quot;&gt;非洲大陸東邊的印度洋小島&lt;/a&gt;上，生活着近七成的印度人，近三成的當地人，以及少量的歐洲人與華人後裔；其中，信奉印度教的就有近一半的人口，另有三成多的天主教，近兩成的伊斯蘭教。聽起來不可思議，但這類種族、語言及文化的大融合卻是真實存在於這樣一個小地方的。&lt;br&gt;
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
     
-    
-      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
     
   </entry>
   
@@ -297,7 +294,7 @@
     <link href="http://yoursite.com/2015/11/13/the-great-f-wall-of-china/"/>
     <id>http://yoursite.com/2015/11/13/the-great-f-wall-of-china/</id>
     <published>2015-11-13T12:35:16.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
+    <updated>2016-07-09T18:51:53.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/11/tumblr_nxri2t5p4x1t7ana6o1_1280.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;The-Great-F-Wall-of-China&quot;&gt;&lt;a href=&quot;#The-Great-F-Wall-of-China&quot; class=&quot;headerlink&quot; title=&quot;The Great F* Wall of China&quot;&gt;&lt;/a&gt;The Great F* Wall of China&lt;/h2&gt;&lt;p&gt;Not only is it standing, but it is so fucking “outstanding” that &lt;a href=&quot;https://en.wikipedia.org/wiki/Internet_in_China&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;em&gt;we cannot reach every corner in the world&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -311,10 +308,8 @@
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="Photo" scheme="http://yoursite.com/categories/Photo/"/>
     
-    
-      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
     
   </entry>
   
@@ -323,7 +318,7 @@
     <link href="http://yoursite.com/2015/10/10/le-soleil-chouchant/"/>
     <id>http://yoursite.com/2015/10/10/le-soleil-chouchant/</id>
     <published>2015-10-10T16:16:33.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
+    <updated>2016-07-09T18:46:42.000Z</updated>
     
     <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/10/tumblr_nw0tnlvwpb1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;「風華雪月不䓁人」&quot;&gt;&lt;a href=&quot;#「風華雪月不䓁人」&quot; class=&quot;headerlink&quot; title=&quot;「風華雪月不䓁人」&quot;&gt;&lt;/a&gt;「風華雪月不䓁人」&lt;/h2&gt;</content>
@@ -335,10 +330,8 @@
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
     
-    
-      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
     
   </entry>
   
@@ -371,10 +364,9 @@
     <link href="http://yoursite.com/2015/06/07/why-telegram/"/>
     <id>http://yoursite.com/2015/06/07/why-telegram/</id>
     <published>2015-06-07T11:57:46.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
+    <updated>2016-07-09T18:53:17.000Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://telegram.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Telegram&lt;/a&gt; 是一對老毛弟兄——Pavel and Nikolai Durov——做的一款通訊軟體，Pavel 提供金錢上和精神上的支持，Nikolai 則負責技術開發。&lt;/p&gt;
-&lt;p&gt;感謝 Coffey 同學同我試用 Telegram。經過一天的把玩，我想小小總結一下。&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://telegram.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Telegram&lt;/a&gt; 是一對老毛弟兄——Pavel and Nikolai Durov——做的一款通訊軟體，Pavel 提供金錢上和精神上的支持，Nikolai 則負責技術開發。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;感謝 Coffey 同學同我試用 Telegram。經過一天的把玩，我想小小總結一下。&lt;/p&gt;
 &lt;p&gt;唯一痛點：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;註冊及登錄的條件有且僅有「電話號碼」這一個選項。電話作為一串可能時常發生變動的數字，完全不適合用做註冊及登錄賬號，即便可以在設置里更換號碼。作為註冊賬號的另一個常用手段，不知 Email 有什麼可以挑剔的地方。&lt;/li&gt;
@@ -384,7 +376,7 @@
 &lt;li&gt;簡約。&lt;/li&gt;
 &lt;li&gt;快，真的快。〔速度完勝 iMessage〕&lt;/li&gt;
 &lt;li&gt;多平台同時登錄且聊天記錄無縫同步。〔完勝 Wechat, Whatsapp, etc. 〕&lt;/li&gt;
-&lt;li&gt;更適合團隊協作以及企業用戶。〔最大支持 200 人的群，更方便傳輸各種原文件〕&lt;/li&gt;
+&lt;li&gt;更適合團隊協作以及企業用戶。〔最大支持五千人的群，更方便傳輸各種原文件〕&lt;/li&gt;
 &lt;li&gt;隱私保護。Nikolai 創造了高度私密的&lt;a href=&quot;https://core.telegram.org/mtproto&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; MTProto 協議&lt;/a&gt;，並且公司還公開&lt;a href=&quot;http://www.bbc.co.uk/news/technology-25444035&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;懸賞 $200,000 給能夠 hack 這個加密系統&lt;/a&gt;的人。〔安全性幾乎超過市面上絕大多數 IM 軟體，與 iMessage 相當。很多人覺得個人隱私無所謂，偶爾被密友們詢問賬號密碼時，都是圖一時方便就直接在微信/短信上以明文的形式輸入進入系統了。你私以為只是悄悄告訴了你的朋友，但實質上你是把你的賬號密碼直接告訴了騰訊/運營商。問題是：「你究竟在多大程度上相信這些公司的道德底線不會越界？」&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;如果你恰好不喜歡在一個聊天軟件裡刷新朋友動態，如果你恰好無法忍受微信繁瑣的桌面端/多設備的登陸模式，如果你恰好苦惱於各個設備之間的消息不同步，如果你恰好在乎自己的隱私，如果你樂於嘗試新鮮事物。那麼，來同你的親友們共同體驗一下 Telegram 吧。&lt;/p&gt;
@@ -404,16 +396,14 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;https://telegram.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Telegram&lt;/a&gt; 是一對老毛弟兄——Pavel and Nikolai Durov——做的一款通訊軟體，Pavel 提供金錢上和精神上的支持，
+      &lt;p&gt;&lt;a href=&quot;https://telegram.org&quot;&gt;Telegram&lt;/a&gt; 是一對老毛弟兄——Pavel and Nikolai Durov——做的一款通訊軟體，Pavel 提供金錢上和精神上的支持，Nikolai 則負責技術開發。&lt;br&gt;
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
     
     
-      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
-    
-      <category term="technology" scheme="http://yoursite.com/tags/technology/"/>
+      <category term="tech" scheme="http://yoursite.com/tags/tech/"/>
     
   </entry>
   
@@ -422,10 +412,10 @@
     <link href="http://yoursite.com/2015/05/22/resistance-to-the-digital-age/"/>
     <id>http://yoursite.com/2015/05/22/resistance-to-the-digital-age/</id>
     <published>2015-05-22T03:20:50.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
+    <updated>2016-07-09T18:50:11.000Z</updated>
     
-    <content type="html">&lt;p&gt;記得 &lt;a href=&quot;http://www.imdb.com/title/tt0120731/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;«海上鋼琴師»&lt;/a&gt; 中 1900 第一次聽到自己的琴聲被錄下來時驚慌失措地情形。他一邊嘟囔着 &amp;ldquo;I won&amp;rsquo;t let my music go anywhere without me&amp;rdquo;, 一邊憤怒地把黑膠唱片奪走。可在他回去之後卻又小心翼翼地包裝好，準備送給錄音時給予他靈感的那個女孩。後來兩人被擁擠的人羣分隔開而沒來得及送給她，絕望之下的他便把碟片掰爛扔到垃圾桶裏。誰知 Max 偷偷把碟片拾起來並拼湊在一起，在最後用「1900 的琴聲」在廢棄的輪船上找到了他。&lt;/p&gt;
-&lt;p&gt;可見技術是以怎樣的方式，在讓人感到冷酷而恐懼的同時，又頗感滿載着人情味的溫馨。&lt;/p&gt;
+    <content type="html">&lt;p&gt;記得 &lt;a href=&quot;http://www.imdb.com/title/tt0120731/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;«海上鋼琴師»&lt;/a&gt; 中 1900 第一次聽到自己的琴聲被錄下來時驚慌失措地情形。他一邊嘟囔着 “I won‘t let my music go anywhere without me”, 一邊憤怒地把黑膠唱片奪走。可在他回去之後卻又小心翼翼地包裝好，準備送給錄音時給予他靈感的那個女孩。後來兩人被擁擠的人羣分隔開而沒來得及送給她，絕望之下的他便把碟片掰爛扔到垃圾桶裏。誰知 Max 偷偷把碟片拾起來並拼湊在一起，在最後用「1900 的琴聲」在廢棄的輪船上找到了他。&lt;/p&gt;
+&lt;p&gt;可見技術是以怎樣的方式，在讓人感到冷酷而恐懼的同時，又頗感滿載着人情味的溫馨。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;人們意識的改變永遠滯後於科技的發展。在「使用新媒介」的過程中，或是說「參與到社交網絡」的時候，我們往往意識不到我們究竟「做了什麼」，固很難想到「參與到社交網絡的行爲」本身會造成怎樣的後果。&lt;/p&gt;
 &lt;p&gt;仔細想想，在前互聯網時代，人們的社交模式幾乎是一對一的。當我們想要去分享一件事情的時候，能夠想到的方法無非是：面對面的交流〔對象可能是&lt;strong&gt;一個&lt;/strong&gt;人/家庭/寢室/圈子〕、寫信、發訊息、打電話。大多數時候的交流〔除了紙信〕，都可以說是「無痕的」、「一次性」的交流；即便是紙信，也僅限於特定的某個人，倘若經過幾次搬家還不一定能保存得下來。因而在那個時代，我們是可以談論所謂的隱私的。想如何瞭解一個人？——面基、電話、短訊、朋友八卦。我對你說過的話不會再原封不動地對其他人說，我對其他人說的話你可能也不會聽到。因此，你所瞭解到的我多半是我想讓你瞭解的那一部分，我們對於彼此幾乎都是一張白紙〔當然從一個人的相貌神態、衣着打扮、行爲舉止來推測或感知是另外一回事〕。&lt;strong&gt;彼此的相識，更像是在對方心中屬於自己的那一張白紙上相互塗抹作畫的過程。&lt;/strong&gt;&lt;/p&gt;
@@ -452,14 +442,13 @@
     
     <summary type="html">
     
-      &lt;p&gt;記得 &lt;a href=&quot;http://www.imdb.com/title/tt0120731/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;«海上鋼琴師»&lt;/a&gt; 中 1900 第一次聽到自己的琴聲被錄下來時驚慌失措地情形。他一邊嘟囔着 &amp;ldquo;
+      &lt;p&gt;記得 &lt;a href=&quot;http://www.imdb.com/title/tt0120731/&quot;&gt;«海上鋼琴師»&lt;/a&gt; 中 1900 第一次聽到自己的琴聲被錄下來時驚慌失措地情形。他一邊嘟囔着 “I won‘t let my music go anywhere without me”, 一邊憤怒地把黑膠唱片奪走。可在他回去之後卻又小心翼翼地包裝好，準備送給錄音時給予他靈感的那個女孩。後來兩人被擁擠的人羣分隔開而沒來得及送給她，絕望之下的他便把碟片掰爛扔到垃圾桶裏。誰知 Max 偷偷把碟片拾起來並拼湊在一起，在最後用「1900 的琴聲」在廢棄的輪船上找到了他。&lt;/p&gt;
+&lt;p&gt;可見技術是以怎樣的方式，在讓人感到冷酷而恐懼的同時，又頗感滿載着人情味的溫馨。&lt;br&gt;
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
     
-    
-      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
     
   </entry>
   
@@ -468,12 +457,11 @@
     <link href="http://yoursite.com/2015/05/04/strawberry-festival/"/>
     <id>http://yoursite.com/2015/05/04/strawberry-festival/</id>
     <published>2015-05-03T23:31:39.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
+    <updated>2016-07-09T18:51:24.000Z</updated>
     
     <content type="html">&lt;p&gt;說實話，在來之前自己完全沒有對這次音樂節抱有任何像第一次去體驗那樣的期望和幻想，因為早已了解摩登天空的品味，所以這次的陣容也沒什麼好特別期待的。&lt;/p&gt;
 &lt;p&gt;而事實是，草莓的本質並不是音樂；或是說，它的主題可以是與音樂不相關的一切。它可以是一個萬人時裝秀，可以是一個情人約會的聚集的，可以是一個屌絲約炮的搭訕廣場；它還可以是&lt;a href=&quot;http://www.oxfama.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;「FAMA 避孕套」&lt;/a&gt;，可以是 &lt;a href=&quot;http://www.airbnb.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Airbnb&lt;/a&gt;，亦可以是「大姨嗎」。在這裡你甚至感受不到商業氣息的存在，因為市場經濟的自由競爭，贊助商及廣告讓草莓星球變得更像是一個&lt;strong&gt;刷二維碼贏小禮物的「園遊會」&lt;/strong&gt;。免費贈送的避孕套、Lotus Biscuit、造型設計、&lt;a href=&quot;http://www.asos.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;asos&lt;/a&gt; 布袋、雨衣、鞋套、鏡子、樂堡啤酒、伊利優酸乳……讓你覺得有一種微小但無比甜蜜的滿足感和幸福感。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/3hwinST.jpg?1&quot; alt=&quot;strawberry music festival&quot;&gt;&lt;/p&gt;
-&lt;p&gt;當時在看到冊子上的這段話時，感觸特別深。突然回憶就湧上來，難以遏制的情緒凝聚到了眼眶上，像是淚，卻又無力擺脫。下午散場後從主舞台離開，被人群穿過時，不禁感嘆到，「這樣的氛圍真讓人幸福，連空氣裡都瀰漫著自由的味道」。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/3hwinST.jpg?1&quot; alt=&quot;strawberry music festival&quot;&gt;&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;當時在看到冊子上的這段話時，感觸特別深。突然回憶就湧上來，難以遏制的情緒凝聚到了眼眶上，像是淚，卻又無力擺脫。下午散場後從主舞台離開，被人群穿過時，不禁感嘆到，「這樣的氛圍真讓人幸福，連空氣裡都瀰漫著自由的味道」。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;陳綺貞的聲音真的能把人酥化，完全想不到她今年都要四十歲了。&lt;br&gt;她在&lt;a href=&quot;https://www.dropbox.com/sh/ivp2o16guoquwkx/AAAy6QgObEub4B9vvi_qsOHia?dl=0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;曲目間隙有講到一段話&lt;/a&gt;讓人尤為觸動，她這樣講到：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -495,14 +483,15 @@
     <summary type="html">
     
       &lt;p&gt;說實話，在來之前自己完全沒有對這次音樂節抱有任何像第一次去體驗那樣的期望和幻想，因為早已了解摩登天空的品味，所以這次的陣容也沒什麼好特別期待的。&lt;/p&gt;
-&lt;p&gt;而事實是，草莓的本質並不是音樂；或是說，它的主題可以是與音樂不相關的一切。它可以是一個萬人時裝秀，可以是一個情人約
+&lt;p&gt;而事實是，草莓的本質並不是音樂；或是說，它的主題可以是與音樂不相關的一切。它可以是一個萬人時裝秀，可以是一個情人約會的聚集的，可以是一個屌絲約炮的搭訕廣場；它還可以是&lt;a href=&quot;http://www.oxfama.com&quot;&gt;「FAMA 避孕套」&lt;/a&gt;，可以是 &lt;a href=&quot;http://www.airbnb.com&quot;&gt;Airbnb&lt;/a&gt;，亦可以是「大姨嗎」。在這裡你甚至感受不到商業氣息的存在，因為市場經濟的自由競爭，贊助商及廣告讓草莓星球變得更像是一個&lt;strong&gt;刷二維碼贏小禮物的「園遊會」&lt;/strong&gt;。免費贈送的避孕套、Lotus Biscuit、造型設計、&lt;a href=&quot;http://www.asos.com&quot;&gt;asos&lt;/a&gt; 布袋、雨衣、鞋套、鏡子、樂堡啤酒、伊利優酸乳……讓你覺得有一種微小但無比甜蜜的滿足感和幸福感。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/3hwinST.jpg?1&quot; alt=&quot;strawberry music festival&quot;&gt;&lt;br&gt;
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
     
     
-      <category term="article" scheme="http://yoursite.com/tags/article/"/>
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
     
   </entry>
   
@@ -511,13 +500,12 @@
     <link href="http://yoursite.com/2015/03/16/hormone/"/>
     <id>http://yoursite.com/2015/03/16/hormone/</id>
     <published>2015-03-16T13:25:33.000Z</published>
-    <updated>2016-07-09T18:44:11.000Z</updated>
+    <updated>2016-07-09T18:46:23.000Z</updated>
     
     <content type="html">&lt;p&gt;聽說荷爾蒙小姐上中國好歌曲了，便上網聽了聽&lt;a href=&quot;http://tv.sohu.com/20150206/n408812368.shtml&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;她們的作品——《船》&lt;/a&gt;。歌不錯，搖滾帶點小電子，最後更是贏得了三位導師的賞識。&lt;/p&gt;
-&lt;p&gt;頓時覺得好感慨啊⋯⋯&lt;/p&gt;
+&lt;p&gt;頓時覺得好感慨啊……&lt;/p&gt;
 &lt;p&gt;想想看，&lt;a href=&quot;http://site.douban.com/Nonsectarian/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Nonsectarian&lt;/em&gt;&lt;/a&gt; 的節奏吉他手還在&lt;a href=&quot;http://www.douban.com/event/20924346/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;堅果俱樂部搖滾女聲專場&lt;/a&gt;的演出當晚找人家「女子樂隊」借效果器用（真是羞羞呢）。&lt;/p&gt;
-&lt;p&gt;感到自己好像跟這個世界仍存在著某種隱約的聯繫。這種感覺並不是因為有過曾經同臺的驕傲，而是一種很真實的「存在」感，一種把你從 being a nobody unattached to the outside world 拉到 being somebody attached to someone outside in the real world anyway 的狀態。&lt;/p&gt;
-&lt;p&gt;這讓我想到了大二時一個人做十幾個小時的硬座跑到西安，去聽自己最崇拜的木吉他演奏家 &lt;a href=&quot;http://en.m.wikipedia.org/wiki/Tommy_Emmanuel&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tommy Emmanuel&lt;/a&gt; 的獨奏會。當我把剛買的一條吉他背帶拿給他簽名，並被他誇獎說 &amp;ldquo;This strap is beautiful&amp;rdquo; 的時候，內心深處的那種存在感和滿足感是永遠也忘不了的。&lt;/p&gt;
+&lt;p&gt;感到自己好像跟這個世界仍存在著某種隱約的聯繫。這種感覺並不是因為有過曾經同臺的驕傲，而是一種很真實的「存在」感，一種把你從 being a nobody unattached to the outside world 拉到 being somebody attached to someone outside in the real world anyway 的狀態。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;這讓我想到了大二時一個人做十幾個小時的硬座跑到西安，去聽自己最崇拜的木吉他演奏家 &lt;a href=&quot;http://en.m.wikipedia.org/wiki/Tommy_Emmanuel&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tommy Emmanuel&lt;/a&gt; 的獨奏會。當我把剛買的一條吉他背帶拿給他簽名，並被他誇獎說 &amp;ldquo;This strap is beautiful&amp;rdquo; 的時候，內心深處的那種存在感和滿足感是永遠也忘不了的。&lt;/p&gt;
 &lt;p&gt;經歷了那晚之後，我最大的感觸便是：&lt;strong&gt;社交網絡突然變得真實了起來，我們平常在屏幕的另一端看到的人物也變得真實了起來，整個世界都變得真實了起來。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;It is exactly the same world in the same dimension that we’re sharing.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -534,7 +522,10 @@
     
     <summary type="html">
     
-      &lt;p&gt;聽說荷爾蒙小姐上中國好歌曲了，便上網聽了聽&lt;a href=&quot;http://tv.sohu.com/20150206/n408812368.shtml&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;她們的作品——《船》&lt;/a&gt;。歌不錯，搖滾帶點小電子，最後更
+      &lt;p&gt;聽說荷爾蒙小姐上中國好歌曲了，便上網聽了聽&lt;a href=&quot;http://tv.sohu.com/20150206/n408812368.shtml&quot;&gt;她們的作品——《船》&lt;/a&gt;。歌不錯，搖滾帶點小電子，最後更是贏得了三位導師的賞識。&lt;/p&gt;
+&lt;p&gt;頓時覺得好感慨啊……&lt;/p&gt;
+&lt;p&gt;想想看，&lt;a href=&quot;http://site.douban.com/Nonsectarian/&quot;&gt;&lt;em&gt;Nonsectarian&lt;/em&gt;&lt;/a&gt; 的節奏吉他手還在&lt;a href=&quot;http://www.douban.com/event/20924346/&quot;&gt;堅果俱樂部搖滾女聲專場&lt;/a&gt;的演出當晚找人家「女子樂隊」借效果器用（真是羞羞呢）。&lt;/p&gt;
+&lt;p&gt;感到自己好像跟這個世界仍存在著某種隱約的聯繫。這種感覺並不是因為有過曾經同臺的驕傲，而是一種很真實的「存在」感，一種把你從 being a nobody unattached to the outside world 拉到 being somebody attached to someone outside in the real world anyway 的狀態。&lt;br&gt;
     
     </summary>
     
@@ -724,10 +715,9 @@
     <link href="http://yoursite.com/2014/11/05/useful-useless/"/>
     <id>http://yoursite.com/2014/11/05/useful-useless/</id>
     <published>2014-11-04T23:37:00.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
+    <updated>2016-07-09T18:52:25.000Z</updated>
     
-    <content type="html">&lt;p&gt;前些日子在知乎看到一個貼子：問道，「『月亮本身不发光，发光的是太阳』这样的知识究竟有什么用处？」，即我们又回到老生常談的「有無用論」。我覺得提出這類問題並不可笑，而我們給出的答案與觀點卻不及想像中那麼滿意。&lt;/p&gt;
-&lt;p&gt;坦白說，最常聽到的回答必然像這樣：「現在你覺得沒用，將來指不定什麼時候就派上用場了」，或是「你現在不學習，不了解，以後就沒有機會或能力去學習了解了」。私以為，這種&lt;strong&gt;教育口吻的回答方式&lt;/strong&gt;就是在逃避問題本身，就好像長輩們的一貫論調：「你還小，有些事情現在跟你說了你也不懂」。（小孩子不懂很正常，但教育者不能逃避問題，而是應該以一種在他的年齡階段能理解的方式去&lt;strong&gt;溝通&lt;/strong&gt;，比如說拿一些自然現象的例子來類比，讓晚輩們根據自己的經驗進行思考和判斷，這是完全可行的。「將來有用」只是一種責任的推脫，沒用任何說服力。）進而，人們又在後面補充道：「即使你以後用不上，那也是知識，那也會讓你變成有智慧的人，會怎樣怎樣提高修養blablabla」。其實，這種回答更像是給人開了一張空頭支票，根本沒有談及問題本身，因為他們自己就害怕去面對這類問題，他們對於那些所謂沒用的知識也不知道應該採取一種什麼樣的態度去對待。&lt;/p&gt;
+    <content type="html">&lt;p&gt;前些日子在知乎看到一個貼子：問道，「『月亮本身不发光，发光的是太阳』这样的知识究竟有什么用处？」，即我们又回到老生常談的「有無用論」。我覺得提出這類問題並不可笑，而我們給出的答案與觀點卻不及想像中那麼滿意。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;坦白說，最常聽到的回答必然像這樣：「現在你覺得沒用，將來指不定什麼時候就派上用場了」，或是「你現在不學習，不了解，以後就沒有機會或能力去學習了解了」。私以為，這種&lt;strong&gt;教育口吻的回答方式&lt;/strong&gt;就是在逃避問題本身，就好像長輩們的一貫論調：「你還小，有些事情現在跟你說了你也不懂」。（小孩子不懂很正常，但教育者不能逃避問題，而是應該以一種在他的年齡階段能理解的方式去&lt;strong&gt;溝通&lt;/strong&gt;，比如說拿一些自然現象的例子來類比，讓晚輩們根據自己的經驗進行思考和判斷，這是完全可行的。「將來有用」只是一種責任的推脫，沒用任何說服力。）進而，人們又在後面補充道：「即使你以後用不上，那也是知識，那也會讓你變成有智慧的人，會怎樣怎樣提高修養blablabla」。其實，這種回答更像是給人開了一張空頭支票，根本沒有談及問題本身，因為他們自己就害怕去面對這類問題，他們對於那些所謂沒用的知識也不知道應該採取一種什麼樣的態度去對待。&lt;/p&gt;
 &lt;p&gt;或許我們會輕易對那些回答嗤之以鼻，不過，真正當我們反問自己時，我們反倒變得猶豫了起來。仔細想想，我們的價值觀已經多多少少被潛移默化地世俗化：「有市場潛力」就是有用，「窮途潦倒」就是沒用；讓自己進入更大的平台就是有用，龜縮在自己家鄉的小世界就是無用；理工機械就是「更有用的」有用，文化藝術就是「不那麼有用」的「有用」等等。我並非在此諷刺任何價值觀，只是說，揭開「有沒有用」這層糖衣來看，今天的人們是否更傾向于以一種&lt;strong&gt;世俗化的實用主義&lt;/strong&gt;觀念為導向來看待問題。&lt;/p&gt;
 &lt;p&gt;實際點展開講，我們常說，要讓小孩從小學興趣班，學樂器、畫畫跳舞、練字等等，在大多數人看來都會說，「學藝術可以&lt;strong&gt;陶冶情操&lt;/strong&gt;」；但你若問他什麼是「情操」，「陶冶」了又&lt;strong&gt;有什麼用&lt;/strong&gt;，他們卻無言以對。就好像人家問一個手機廠商「你為什麼要做手機？」，答曰「因為我有&lt;strong&gt;情懷&lt;/strong&gt;」一樣可笑。如果學藝術不能陶冶情操，它是不是就「沒用」了呢？我很好奇是否某些家長在把孩子強迫去學琴幾年考上十級證書之後，會不會帶著無比的優越感暗自竊喜，好像在說，「看，我兒子終於TM&lt;strong&gt;陶冶&lt;/strong&gt;出&lt;strong&gt;情操&lt;/strong&gt;來了！」至此，情操已然變成一個&lt;strong&gt;有用的技能點&lt;/strong&gt;，正如情懷變成了從3000至1980被貶值的一份子一樣。&lt;/p&gt;
 &lt;p&gt;此外，是否只是因為選擇理工科專業能更容易在這個社會的更多領域找到工作，我們就會潛意識里覺得它比&lt;strong&gt;相比較而言不那麼容易找到工作的&lt;/strong&gt;文學藝術類專業更「有用」呢？是否大部份家長只是把文學藝術當做孩子的課餘興趣愛好，理工科的附屬品，甚至&lt;strong&gt;文化成績不合格進而走投無路時的救命稻草呢&lt;/strong&gt;？呵呵，我們的「情操」到頭來也只是這樣的廉價罷了。&lt;/p&gt;
@@ -746,15 +736,12 @@
     
     <summary type="html">
     
-      &lt;p&gt;前些日子在知乎看到一個貼子：問道，「『月亮本身不发光，发光的是太阳』这样的知识究竟有什么用处？」，即我们又回到老生常談的「有無用論」。我覺得提出這類問題並不可笑，而我們給出的答案與觀點卻不及想像中那麼滿意。&lt;/p&gt;
-&lt;p&gt;坦白說，最常聽到的回答必然像這樣：「現在你覺得沒用，
+      &lt;p&gt;前些日子在知乎看到一個貼子：問道，「『月亮本身不发光，发光的是太阳』这样的知识究竟有什么用处？」，即我们又回到老生常談的「有無用論」。我覺得提出這類問題並不可笑，而我們給出的答案與觀點卻不及想像中那麼滿意。&lt;br&gt;
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="Essay" scheme="http://yoursite.com/categories/Essay/"/>
     
-    
-      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
     
   </entry>
   
