@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dying Sunbeam</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-07-09T05:34:16.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Percy Song</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/07/09/hello-world/"/>
+    <id>http://yoursite.com/2016/07/09/hello-world/</id>
+    <published>2016-07-09T05:34:16.000Z</published>
+    <updated>2016-07-09T05:34:16.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo server&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo generate&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo deploy&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>un-film-en-francais-pour-le-premiere-fois</title>
+    <link href="http://yoursite.com/2016/03/26/un-film-en-francais-pour-le-premiere-fois/"/>
+    <id>http://yoursite.com/2016/03/26/un-film-en-francais-pour-le-premiere-fois/</id>
+    <published>2016-03-26T07:21:18.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2016/03/tumblr_o4n8vjsykm1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Un film en français, pour le première fois. Surtout, sans sous-titres…&lt;/p&gt;
+&lt;p&gt;Parce-que il n’y pas le version en anglais. &lt;/p&gt;
+&lt;p&gt;🙂🙂🙂&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2016/03/tumblr_o4n8vjsykm1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Un film en français, pour 
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一八九六、一九六八、一九八六和二零一六</title>
+    <link href="http://yoursite.com/2016/03/12/1986-1968-1896/"/>
+    <id>http://yoursite.com/2016/03/12/1986-1968-1896/</id>
+    <published>2016-03-12T17:19:53.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Richard Strauss 在一八九六年寫了一首交響詩 &lt;a href=&quot;http://www.wikiwand.com/en/Also_sprach_Zarathustra_(Strauss&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Also sprach Zarathustra&lt;/em&gt;&lt;/a&gt;)，其中那段經典低音巴松管的前奏 motif，在一九六八年 Stanley Kubrick 的世紀經典之作 &lt;a href=&quot;http://www.wikiwand.com/en/2001:_A_Space_Odyssey_(film&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;2001: A Space Odyssey&lt;/em&gt;&lt;/a&gt;) 的引用之後耳熟能詳。緊接着，David Bowie 在一年後發行的 &lt;a href=&quot;http://www.wikiwand.com/en/Space_Oddity&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Space Oddity&lt;/em&gt;&lt;/a&gt; 的前奏中也引用了這段 motif。&lt;/p&gt;
+&lt;p&gt;一九八六年，瑞典的搖滾楽隊 &lt;a href=&quot;http://www.wikiwand.com/en/Europe_(band&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Europe&lt;/a&gt;) 的鍵盤手 Joey Tempest 寫了一段很出色的 Riff，貝斯手 John Levén 便建議，應該在此基礎上寫一首歌。於是，加上由 David Bowie 的 &lt;em&gt;Space Oddity&lt;/em&gt; 而產生靈感的歌詞，便誕生了這首在廿五個國家的榜單上都沖到了第一名的單曲—— &lt;a href=&quot;http://www.wikiwand.com/en/The_Final_Countdown_(song&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;The  Final Countdown&lt;/em&gt;&lt;/a&gt;)。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We’re leaving together&lt;/p&gt;
+&lt;p&gt;But still it’s farewell&lt;/p&gt;
+&lt;p&gt;And maybe we’ll come back&lt;/p&gt;
+&lt;p&gt;To earth, who can tell?&lt;/p&gt;
+&lt;p&gt;I guess there is no one to blame&lt;/p&gt;
+&lt;p&gt;We’re leaving ground&lt;/p&gt;
+&lt;p&gt;Will things ever be the same again?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;三月十日，我工作所在的小學請了軍樂隊來給全校演出。其中有一首曲子，前奏出來很是激昂，所有的學生都跟着哼唱和舞蹈，好像大家都很熟悉的樣子。我聽着尤其觸動，便在 &lt;a href=&quot;https://www.instagram.com/p/BCxIxL3Al_P/?taken-by=percysong&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Instagram 上錄了一個小視頻&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;今天在回看 «我是歌手第四季 - 第五場» 梁翹柏老師介紹鍵盤手的片段時，無意中又在其 solo 的開始聽到了這段 Riff。我覺得很是巧合，查了一下才發現是卅十年前的金曲—— The Final Countdown。&lt;/p&gt;
+&lt;p&gt;一百廿年，三個世紀。音樂就這樣把一個個活蹦亂跳的小生命，同十九世紀早已在天堂上安息的作曲家聯繫在了一起，真是件無比奇妙的事。&lt;/p&gt;
+&lt;p&gt;讓我們帶着敬畏，來欣賞這三首跨越世紀的音樂吧！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=e-QFj59PON4&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Also sprach Zarathustra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=iYYRH4apXDo&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Space Oddity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9jK-NcRmVcw&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The Final Countdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Richard Strauss 在一八九六年寫了一首交響詩 &lt;a href=&quot;http://www.wikiwand.com/en/Also_sprach_Zarathustra_(Strauss&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Al
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小螞蟻，大世界</title>
+    <link href="http://yoursite.com/2016/02/13/les-petites-fourmis/"/>
+    <id>http://yoursite.com/2016/02/13/les-petites-fourmis/</id>
+    <published>2016-02-13T16:31:36.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;如果你未曾觀摩過蟻群的工作，那真是錯失了人生一大驚豔的體驗。如此秩序井然，不辞辛勞。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Wqm6i4f.jpg&quot; alt=&quot;pic1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://imgur.com/3UU1eF5.jpg&quot; alt=&quot;pic2&quot;&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如果你未曾觀摩過蟻群的工作，那真是錯失了人生一大驚豔的體驗。如此秩序井然，不辞辛勞。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/Wqm6i4f.jpg&quot; alt=&quot;pic1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://imgur.com
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>simplified-metadata</title>
+    <link href="http://yoursite.com/2016/01/25/simplified-metadata/"/>
+    <id>http://yoursite.com/2016/01/25/simplified-metadata/</id>
+    <published>2016-01-25T08:00:13.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2016/01/tumblr_o1ic0djx2b1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Simplified-Metadata&quot;&gt;&lt;a href=&quot;#Simplified-Metadata&quot; class=&quot;headerlink&quot; title=&quot;Simplified Metadata?&quot;&gt;&lt;/a&gt;Simplified Metadata?&lt;/h2&gt;&lt;p&gt;Do we really have so-called &amp;ldquo;metadata&amp;rdquo; for electric art work?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;J.S. Bach: _ - JS Bach: &amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Like an idiot machine generated metadata.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2016/01/tumblr_o1ic0djx2b1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;Simplified-Metadata&quot;&gt;
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>gris-gris</title>
+    <link href="http://yoursite.com/2016/01/02/gris-gris/"/>
+    <id>http://yoursite.com/2016/01/02/gris-gris/</id>
+    <published>2016-01-02T05:27:37.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;[gallery]&lt;/p&gt;
+&lt;p&gt;À Gris-Gris&lt;/p&gt;
+&lt;p&gt;Une journée agréable et tranquille.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;[gallery]&lt;/p&gt;
+&lt;p&gt;À Gris-Gris&lt;/p&gt;
+&lt;p&gt;Une journée agréable et tranquille.&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Google Cardboard - First Impression</title>
+    <link href="http://yoursite.com/2015/12/31/google-cardboard/"/>
+    <id>http://yoursite.com/2015/12/31/google-cardboard/</id>
+    <published>2015-12-31T04:54:17.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;喜得 &lt;a href=&quot;https://store.google.com/product/nexus_6p&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google 在華爲孃胎裏孕的親兒子 Nexus 6P&lt;/a&gt; 後，何不妨嘗試一下 Google 廉價的虛擬現實體驗—— &lt;a href=&quot;https://www.google.com/get/cardboard/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google Cardboard&lt;/a&gt; 呢？恰巧第三方的 Cardboard 開發商都支持國際快遞，於是便在 &lt;a href=&quot;http://www.imcardboard.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;I AM CARDBOARD&lt;/a&gt; 的官網上選了一個 &lt;a href=&quot;http://www.imcardboard.com/eva/giant-version-v2-0-eva-vr-kit-with-nfc-black.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EVA Headset&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;先上圖：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/w68BQIe.jpg&quot; alt=&quot;1&quot;&gt;&lt;img src=&quot;http://i.imgur.com/6CEGwoW.jpg&quot; alt=&quot;2&quot;&gt;&lt;img src=&quot;http://i.imgur.com/CVRa4rp.jpg&quot; alt=&quot;3&quot;&gt;&lt;/p&gt;
+&lt;p&gt;用 Google 自帶的 Cardboard 應用先看了幾個演示 APP，如虛擬地球的漫遊、凡爾賽宮的全景導遊參觀、三百六十度全景圖片的體驗，之後又在 &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.shakingearthdigital.vrsecardboard&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Vrse&lt;/a&gt; 上下了幾個視頻，找了幾個諸如 &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.endspacevr&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;The End Space&lt;/a&gt; 那種製作精良的 VR 遊戲。&lt;/p&gt;
+&lt;p&gt;簡評一下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Google Cardboard 做到了以低廉的價格，讓儘可能多的人體驗到最前沿的虛擬現實。你甚至可以參照&lt;a href=&quot;https://www.google.com/intl/zh-CN_ALL/get/cardboard/get-cardboard/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;官方文件&lt;/a&gt;，自己動手折一個出來。&lt;/li&gt;
+&lt;li&gt;某些製作精良的 VR App 真的能讓人回到小時候去科技館玩耍時的激動。那種無法用文字描述，無法用任何流行普遍的媒介重現的浸入式體驗，幾乎讓你瞥見了未來世界的 beta 版模型。&lt;/li&gt;
+&lt;li&gt;分辨率終是大傷，即便在用一個帶有 2K 分辨率屏幕的手機來觀賞〔或許與手機分辨率無關〕，實際體驗的效果也近似看一個 480P 的視頻。&lt;/li&gt;
+&lt;li&gt;硬件處理和計算能力上的不足。因爲畢竟各種加速器、陀螺儀要火力全開，即便是 Snapdragon 810 都很吃不消，頭部移動稍微過快就會有明顯的掉幀、卡頓。十分鐘下來，你的手機就同烙鐵一般滾燙。&lt;/li&gt;
+&lt;li&gt;頭暈噁心。是的，只要是玩諸如 &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ArchiactInteractive.LamperVR&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Lamper VR&lt;/a&gt; 這種全景跑酷類遊戲，不到十分鐘就會感覺明顯的噁心；停下來甚至要一個鐘左右才能完全恢復正常。觀看 VR 視頻的話要相對好的多。&lt;/li&gt;
+&lt;li&gt;當然，在外人看來，觀影者就像一個抱着不知何物的黑匣子到處亂轉的瘋子。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;最震撼我的，無疑是 &lt;a href=&quot;https://youtu.be/f0-89v4Fk-M?t=4m22s&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Walking New York&lt;/em&gt; 中攝影師在直升機上拍攝的場景&lt;/a&gt;，向腳下望去彷若自己飄浮在 NYC 的空中。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;喜得 &lt;a href=&quot;https://store.google.com/product/nexus_6p&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google 在華爲孃胎裏孕的親兒子 Nexus 6P&lt;/a&gt; 後，何不妨嘗試一下 Google 廉價
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>%e5%b0%8f%e5%b9%b8%e9%81%8b</title>
+    <link href="http://yoursite.com/2015/12/26/e5-b0-8f-e5-b9-b8-e9-81-8b/"/>
+    <id>http://yoursite.com/2015/12/26/e5-b0-8f-e5-b9-b8-e9-81-8b/</id>
+    <published>2015-12-26T12:45:44.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;[audio &lt;a href=&quot;http://dyingsunbeam.files.wordpress.com/2015/12/tumblr_nzz5885aa61t7ana6o1.mp3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://dyingsunbeam.files.wordpress.com/2015/12/tumblr_nzz5885aa61t7ana6o1.mp3&lt;/a&gt;]&lt;/p&gt;
+&lt;h2 id=&quot;小幸運——吉他獨奏&quot;&gt;&lt;a href=&quot;#小幸運——吉他獨奏&quot; class=&quot;headerlink&quot; title=&quot;小幸運——吉他獨奏&quot;&gt;&lt;/a&gt;小幸運——吉他獨奏&lt;/h2&gt;&lt;p&gt;這就是把大家少女心都融化了的 «我的少女時代» 電影主題曲，旋律朗朗上口，故事感強，不失爲一首上乘的流行楽製作。&lt;/p&gt;
+&lt;p&gt;我將其改編成了一首吉他獨奏，指法略難，練了兩天就迫不及待地錄音了，質量欠佳，大家見諒。&lt;/p&gt;
+&lt;p&gt;僅此獻給&lt;a href=&quot;http://dyingsunbeam.com/post/135720843714/%E7%A2%A7%E6%B5%B7%E8%97%8D%E5%A4%A9%E7%95%B1%E5%BE%97%E4%BD%B3%E4%BA%BA&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;我的小幸運&lt;/a&gt;。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;[audio &lt;a href=&quot;http://dyingsunbeam.files.wordpress.com/2015/12/tumblr_nzz5885aa61t7ana6o1.mp3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://dyi
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的父親</title>
+    <link href="http://yoursite.com/2015/12/25/my-father/"/>
+    <id>http://yoursite.com/2015/12/25/my-father/</id>
+    <published>2015-12-25T14:49:54.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;我爸竟然在聖誕夜前夕用英文給我寫了一封 Email，如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/51rH5mx.png&quot; alt=&quot;email&quot;&gt;&lt;/p&gt;
+&lt;p&gt;毫無規律的首行縮進，奇怪的 &amp;ldquo;father &amp;amp; son&amp;rdquo; title，雜糅着親切的中文語法，還真讓我有點小感動。這個時代哪裏還聽說有父親給兒子發電郵的，還是用的英文，哈哈，我爸真是太酷了。&lt;/p&gt;
+&lt;h2 id=&quot;我的程序員父親&quot;&gt;&lt;a href=&quot;#我的程序員父親&quot; class=&quot;headerlink&quot; title=&quot;我的程序員父親&quot;&gt;&lt;/a&gt;我的程序員父親&lt;/h2&gt;&lt;p&gt;我算是這個電子信息技術高速發展的時代下的幸運兒罷，在大多數同齡人都不知道 PC 是個什麼東西的時候，我便與它爲伴了。那時家裏的電腦還是一臺裝載着黑白顯示器、5¼吋軟驅以及 &lt;a href=&quot;https://www.wikiwand.com/zh-hant/MS-DOS&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MS-DOS 系統&lt;/a&gt;的古董機器。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.wikiwand.com/zh-hant/%E8%BD%AF%E7%9B%98&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;5¼吋軟盤&lt;/a&gt;，也就是大家可能見過的 3.5 吋軟盤的爸爸，它長這樣〔一般單面容量 160KB，低密度 360KB〕：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.fileformat.info/media/5.25-floppy/top.jpg&quot; alt=&quot;FloppyDisk&quot;&gt;&lt;/p&gt;
+&lt;p&gt;MS-DOS 系統大家就比較熟悉了，它長這樣：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.computerhistory.org/atchm/wp-content/uploads/2013/12/DOS20_screenshot.jpg&quot; alt=&quot;MS-DOS&quot;&gt;&lt;/p&gt;
+&lt;p&gt;後來老爸換了臺機器，有了彩色顯示器和 CD-ROM 光驅，並搭載了 &lt;a href=&quot;https://www.wikiwand.com/zh-hant/Windows_3.x&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Windows 3.X 系統&lt;/a&gt;。Windows 3.X ?! Are u kidding me?&lt;/p&gt;
+&lt;p&gt;它便是 Microsoft Windows 第二個大版本的更新〔Windows 1.X 和 2.X 可以算一個大版本罷，接下來便是廣爲人知的 &lt;a href=&quot;http://www.wikiwand.com/en/Windows_9x&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Windos 9X&lt;/a&gt; 系統了〕。它的主界面大概長這樣：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://toastytech.com/guis/win31default.png&quot; alt=&quot;win3.1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;記得從那個時候開始，我爸就會給我買一些幼教和益智小遊戲的光碟，想給我做啓蒙教育。印象最深的是一個做加減乘除算術的小軟件，雖然界面無比簡單，但仍讓我覺得頗有興趣。還有一個 2D 卷軸類的收集單詞字母的遊戲，應該算是我的最愛了，可惜後來那光盤找不到了。&lt;/p&gt;
+&lt;p&gt;對於當時還並未成熟的 Windows 系統來說，很多系統級別的操作還是要通過 DOS 系統來完成。因此，父親有空的時候，會教我一些基本的命令行，到後來跟他學着在 DOS 下重裝 Windows 系統。搞得自己好像真的很 hard-core 一樣。&lt;/p&gt;
+&lt;p&gt;四歲的我在房間裏玩電腦：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/gXQPHKl.jpg&quot; alt=&quot;computer&quot;&gt;&lt;/p&gt;
+&lt;p&gt;搬家之後偶爾幫着父親整理書房，隨處可見這邊一兩落的電腦報、那邊兩三落的 C++ 教程。每次去市裏的書店，都會看着他買很厚一本的編程教材回來。當時學習這些技術，一是因爲他對計算機很有興趣，二是因爲當時的工作找不到一個能夠自動化測試並管理數據的工具，於是乎便自己動手做了一個出來。這樣算下來，前前後後自己也維護了十多年了，其 UI 也從當時 MS-DOS 風格轉變爲 Win 9X 擬物模塊，直到 Win 7 之後的「扁平化」〔上次看完也搞忘記那軟件的模塊些有沒有真的扁平了〕。當然，界面的配色還是一如既往的奇怪老土。要是我爸知道有 &lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github&lt;/a&gt; 這種平臺，說不定跟人家交流一下早就弄出更高效的管理工具了。軟件的主要目的貌似是通過幾組數據的影射關係，監視並檢測單個&lt;a href=&quot;https://www.wikiwand.com/zh-hant/%E6%A0%B8%E7%87%83%E6%96%99&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;燃料棒&lt;/a&gt;內，每個芯塊中鈾的含量以及整體的丰度，以完成各種測量統計工作。&lt;/p&gt;
+&lt;p&gt;「宋翌棟，過來看看你老爸新編的程序，怎麼樣！」&lt;/p&gt;
+&lt;h2 id=&quot;我的藝術家父親&quot;&gt;&lt;a href=&quot;#我的藝術家父親&quot; class=&quot;headerlink&quot; title=&quot;我的藝術家父親&quot;&gt;&lt;/a&gt;我的藝術家父親&lt;/h2&gt;&lt;p&gt;父親引導我的興趣，除了計算機，便是習字了；二者都成爲了我今後生活中充滿無限熱情的事物。&lt;/p&gt;
+&lt;p&gt;年輕時的父親，也可謂琴棋書畫樣樣沾邊。吉他彈了一段時間，卻放棄得最早；圍棋也教過我幾次，我並沒有堅持下來，後來也不怎麼見他下了；傳聞說父親年輕時畫掛曆上明星們的素描畫得栩栩如生，卻因爲之前搬家，大部分都沒有拾過來，只有我偷偷找到的一副爲我媽畫的佈滿黴斑的素描。唯有鋼筆字是手把手教我從小練起的，到現在我都承認自己的字是趕不上他的，尤其在對結構和字型穩定性的把握上。〔可惜電腦裏沒存有副本，回家再補上圖片〕&lt;/p&gt;
+&lt;p&gt;這是給我媽畫的素描，臉胖得略顯誇張，全然是大唐時期的審美。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/KIQ3hpm.jpg&quot; alt=&quot;mom&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我性格中的很多方面都隨了我的父親，譬如不緊不慢的隨性作風、慢熱遲鈍的反應、對熱愛事物的專注態度以及事不關己、悠然自得的處世心境。其中的很多點，都是我母親無法忍受的。因此，也幾乎都是我媽在操心我。這也便是她老人家爲什麼白髮越來越多，而我爸的「少年白」卻越來越少的原因罷。&lt;/p&gt;
+&lt;p&gt;即便我的父親沒有幾次同我深入談過什麼宇宙星相、人生理想，陪伴我的時間也沒有兒時期望的那麼多，且其過於現實的實用主義價值取向也同我大相徑庭，但這些並不阻礙他成爲一位在廣義親職教育評估體系下還算合格的父親。&lt;/p&gt;
+&lt;p&gt;Merry Christmas，我的、酷酷的、還算合格的 hard-core 父親。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;我爸竟然在聖誕夜前夕用英文給我寫了一封 Email，如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/51rH5mx.png&quot; alt=&quot;email&quot;&gt;&lt;/p&gt;
+&lt;p&gt;毫無規律的首行縮進，奇怪的 &amp;ldquo;father &amp;amp; son&amp;
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>%e7%a2%a7%e6%b5%b7%e8%97%8d%e5%a4%a9%e7%95%b1%e5%be%97%e4%bd%b3%e4%ba%ba</title>
+    <link href="http://yoursite.com/2015/12/22/e7-a2-a7-e6-b5-b7-e8-97-8d-e5-a4-a9-e7-95-b1-e5-be-97-e4-bd-b3-e4-ba-ba/"/>
+    <id>http://yoursite.com/2015/12/22/e7-a2-a7-e6-b5-b7-e8-97-8d-e5-a4-a9-e7-95-b1-e5-be-97-e4-bd-b3-e4-ba-ba/</id>
+    <published>2015-12-22T14:14:11.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/12/tumblr_nzrunnajm11t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;碧海藍天畱得佳人&quot;&gt;&lt;a href=&quot;#碧海藍天畱得佳人&quot; class=&quot;headerlink&quot; title=&quot;碧海藍天畱得佳人&quot;&gt;&lt;/a&gt;碧海藍天畱得佳人&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/12/tumblr_nzrunnajm11t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;碧海藍天畱得佳人&quot;&gt;&lt;a href=&quot;#碧
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在一個「愛」無法超越宗教信仰的世界裏</title>
+    <link href="http://yoursite.com/2015/12/21/respect-and-love/"/>
+    <id>http://yoursite.com/2015/12/21/respect-and-love/</id>
+    <published>2015-12-21T14:19:03.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;在這個被英法分別殖民過的&lt;a href=&quot;https://www.wikiwand.com/en/Mauritius#&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;非洲大陸東邊的印度洋小島&lt;/a&gt;上，生活着近七成的印度人，近三成的當地人，以及少量的歐洲人與華人後裔；其中，信奉印度教的就有近一半的人口，另有三成多的天主教，近兩成的伊斯蘭教。聽起來不可思議，但這類種族、語言及文化的大融合卻是真實存在於這樣一個小地方的。&lt;/p&gt;
+&lt;p&gt;一個年近四十的當地朋友說他在前幾天和他女友分手了，直接原因便是，他的家庭是天主教教徒，而女友則信奉印度教。女友想把他遊說成印度教教徒，即便他自己無所謂，可家人還是不能同意，最終不了了之。&lt;/p&gt;
+&lt;p&gt;先不論這個故事可信與否，愛侶之間由於信仰及觀念不合而分開的例子並不少見。先不談這對情侶對於彼此真心相愛與否，即便是兩個素昧平生之人，尊重對方的信仰亦是雙方能夠平等相處的前提。情侶間若覺得這類「尊重」會讓彼此的關係略顯「生分」，從而不去在意這些「基本禮節」，那兩人的關係必定是不平等的。雖然我們沒有理由認爲，「不平等的關係」就一定不能造就一對情人鸞鳳和鳴、白頭相守，歷史上各個帝王與其愛妃們的神仙故事便已經證明了這種婚姻的存在；但作爲生活在現代文明下的你我他，沒有人想回到那個一樁姻緣定終身的媒妁社會，沒有人想回到那樣一個戀愛不自由、婚姻不平等的時代。&lt;/p&gt;
+&lt;p&gt;宗教的本質不是我信基督，你信安拉，他信釋迦牟尼；而是，從某種意義上講，通過不同方式達到的一種自我修行，其目的無不是爲了讓這個世界變得和平、充滿善，減輕自我的痛苦，以成爲一個更好的自己。選擇一種宗教，只是選擇了一種文化背景，選擇了一種修行的方式，一種自我交流的語言。即便對於沒有宗教信仰的人群來說，不同的人也有截然不同的方式來看待這個世界，評判事物的價值以及提升自己的內在修養；這些東西說白了就是我們自己的宗教信仰。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;互相沒有隱私的夫妻是否能和睦而平等地在一起？三觀不同的呢？宗教信仰不同的呢？&lt;/p&gt;
+&lt;p&gt;——是，也不是。&lt;/p&gt;
+&lt;p&gt;如果你與一個相貌神態、言行舉止都十分合意的異性相識，卻在深入交談過後發現他或她是個佛教徒或是一個純素食主義者，你是否會選擇繼續與他/她發展下去？&lt;/p&gt;
+&lt;p&gt;——如果你認爲這種從功利主義哲學出發的道德素食主義很荒謬〔把&lt;a href=&quot;https://zh.wikipedia.org/zh-hant/%E6%9C%89%E6%83%85?oldformat=true&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;「有情」&lt;/a&gt;之生命體狹義地限定爲動物，僅僅對牠們&lt;a href=&quot;https://zh.wikipedia.org/zh-hant/%E4%B8%8D%E5%AE%B3?oldformat=true&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;「不害」&lt;/a&gt;，而草木山河卻另眼相待〕，選擇退出當然是你的權利；可一旦認真交往起來，你就選擇了欣賞與尊重，任何試圖同化對方的行爲都是一種無禮和無理。我聽過不止一對因爲教義相異，而被一己私心或家庭的傳統而無奈分開的愛侶的遺憾之事。然而，世界在改變，我們是擁抱開放自由全球化的新一代，丟掉歷史的枷鎖及封建禮教的禁錮是這個時代文明下的人們必須要做出的轉變。&lt;/p&gt;
+&lt;p&gt;人的私心很重，慾望很大。即便每個人都要有所妥協，我也仍然相信，「愛」的前提必定是「尊重」。妳不吃豬肉，好啊，我們一起吃魚，但妳不能嫌鄙我吃豬肉；妳只吃素，好啊，我們一起吃蔬菜，但妳不能強迫我不吃肉；妳不吃蔥和香菜，好啊，我只夾到自己碗裏的時候妳便不要覺得我們之間有所隔閡。我愛妳，便是愛妳的一切。&lt;/p&gt;
+&lt;p&gt;我從來不覺得感情不合是什麼「彼此非真愛」之類的神仙原因，&lt;strong&gt;認真的態度、相互的尊重和理解永遠是先於「愛」的&lt;/strong&gt;。如果我們總想着佔有自己的子女，讓他們維持和自己一樣的是非觀、價值觀，走上自己現在職業道路以繼承自己未完成的事業，那我們跟那群拿着機關槍掃射，試圖用自己的異端宗教同化並統治世界的極端份子們離得並不遠了。&lt;/p&gt;
+&lt;p&gt;如果這個世界的所有家庭、社會和宗教首先宣揚教育的不是什麼虛無縹緲的「讓世界充滿愛」，而是「尊重每一個異己的個體，每一個怪畸的行爲和想象力」，「愛」或許就不會有如此的阻力了。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在這個被英法分別殖民過的&lt;a href=&quot;https://www.wikiwand.com/en/Mauritius#&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;非洲大陸東邊的印度洋小島&lt;/a&gt;上，生活着近七成的印度人，近三成的當地人，以及少量的歐洲人
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Incited by The Anti-Indoctrination</title>
+    <link href="http://yoursite.com/2015/11/29/drones-muse/"/>
+    <id>http://yoursite.com/2015/11/29/drones-muse/</id>
+    <published>2015-11-29T11:14:40.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Drones_(Muse_album&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Drones&lt;/em&gt;&lt;/a&gt;) 較 &lt;a href=&quot;https://en.wikipedia.org/wiki/Muse_(band&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Muse&lt;/a&gt;) 之前的專輯略顯平庸，但究其直接感官體驗和主題隱喻的關聯卻值得一說。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://muse-cdn.warnerartists.com/ugc-1/drones.jpg&quot; alt=&quot;drones&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;專輯主題&quot;&gt;&lt;a href=&quot;#專輯主題&quot; class=&quot;headerlink&quot; title=&quot;專輯主題&quot;&gt;&lt;/a&gt;專輯主題&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Drones&lt;/em&gt; 這張專輯大半部分都使用了極具煽動性的鼓點，洗腦的 &lt;a href=&quot;https://en.wikipedia.org/wiki/Ostinato&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Riff&lt;/a&gt; 以及高亢的真假混聲切換，無一不讓人慷慨激昂。以這種聽似簡單的旋律和節奏，來影射他所想表達的主題——我們被精神錯亂的極權組織/政府所控制，被洗腦，以喪失人性，最後變成了殺人機器；而其中一人背叛並逃脫了這個組織，最後贏得勝利。&lt;/p&gt;
+&lt;p&gt;Muse 的主要成員 Bellamy 這樣描述 &amp;ldquo;Drones&amp;quot;：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;a modern metaphor for what it is to lose empathy &amp;hellip; through modern technology, and obviously through drone warfare in particular, it&amp;rsquo;s possible to actually do quite horrific things by remote control, at a great distance, without actually feeling any of the consequences, or even feeling responsible in some way.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;這裏提到了 &lt;a href=&quot;https://en.wikipedia.org/wiki/Empathy_gap&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Empathy Gap&lt;/a&gt;〔可譯爲「移情隔閡」〕，也就是一種不同情景下相互的理解無能。最常見的例子便是，人在悲傷的時候很難去體會一個人快樂時的感受。Bellamy 想描述的情況是，「按下核按鈕的那個人永遠無法體會核武器可能造成的毀滅性的打擊以及施行此行爲所要承擔的責任」。&lt;/p&gt;
+&lt;h2 id=&quot;反法西斯閱兵儀式&quot;&gt;&lt;a href=&quot;#反法西斯閱兵儀式&quot; class=&quot;headerlink&quot; title=&quot;反法西斯閱兵儀式&quot;&gt;&lt;/a&gt;反法西斯閱兵儀式&lt;/h2&gt;&lt;p&gt;雖然今年沒有親歷紀念反法西斯閱兵儀式，但我即刻便聯想到了這張專輯。我隨即便腦補了一下閱兵時的壯觀景象，感激一下當今和平生活的安然，反思一下戰爭的殘酷，亦不忘感慨一下祖國媽媽的強大。再腦補一下軍哥哥們的颯爽英姿，整齊如魔鬼的步伐。天了嚕，要被感動哭惹。&lt;/p&gt;
+&lt;p&gt;如果你還沒有被震撼到你就不是中國人。&lt;/p&gt;
+&lt;p&gt;所以室友下載下來我沒有去看。不是因爲我非中國人，而是因爲我不想被「震撼到」。&lt;/p&gt;
+&lt;p&gt;仔細想想，那羣像機器人一般的軍哥哥，不正是 yet inactivate human drones?&lt;/p&gt;
+&lt;p&gt;我們只是在以一種「沉睡法西斯」的姿態來紀念反法西斯勝利，ironically，這算不上什麼勝利。&lt;/p&gt;
+&lt;h2 id=&quot;意淫的-MUSE-現場&quot;&gt;&lt;a href=&quot;#意淫的-MUSE-現場&quot; class=&quot;headerlink&quot; title=&quot;意淫的 MUSE 現場&quot;&gt;&lt;/a&gt;意淫的 MUSE 現場&lt;/h2&gt;&lt;p&gt;我常常想象自己在天安門廣場看一場 Muse 的演唱會，彼時，Bellamy 的個人定製版激光電吉他響起了 &lt;a href=&quot;https://itun.es/us/KE0b6?i=973556122&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Psycho&lt;/em&gt;&lt;/a&gt; 的 Riff，人羣騷動不安，跳水的、開火車的，還有被踩踏致死的。突然，大家跟着合唱了起來：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;m gonna make you&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m gonna break you&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m gonna make you&lt;/p&gt;
+&lt;p&gt;A fucking psycho&lt;/p&gt;
+&lt;p&gt;Your ass belongs to me now&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;主歌剛結束，全場已經瘋狂得一塌糊塗：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Are you a human drone? 〔Program 裏響起了這段採樣〕&lt;/p&gt;
+&lt;p&gt;Aye, sir!〔十萬粉絲齊聲應答〕&lt;/p&gt;
+&lt;p&gt;Are you a killing machine?&lt;/p&gt;
+&lt;p&gt;Aye, sir!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m in control, motherfucker, do you understand?&lt;/p&gt;
+&lt;p&gt;Aye, sir!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;如果你看過 &lt;a href=&quot;https://www.youtube.com/watch?v=lRAm65zf0Xw&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Muse Live at Rome Olympic Stadium&lt;/a&gt; 燈光舞臺剪輯都無比酷炫的現場視頻，便很難想象真正在現場聽這樣一首如此洗腦、如此蠱惑人心的搖滾樂不被震撼到。&lt;/p&gt;
+&lt;p&gt;如果你還沒有被震撼到你就不是真・宇宙天王・謬斯女神的粉絲。&lt;/p&gt;
+&lt;p&gt;同樣，不是因爲我非謬斯粉，而是因爲我不想被「震撼到」。&lt;/p&gt;
+&lt;p&gt;Holy shit, 那景象真是慘絕人寰。&lt;/p&gt;
+&lt;h2 id=&quot;Keep-Calm-and-Stay-Rational&quot;&gt;&lt;a href=&quot;#Keep-Calm-and-Stay-Rational&quot; class=&quot;headerlink&quot; title=&quot;Keep Calm and Stay Rational&quot;&gt;&lt;/a&gt;Keep Calm and Stay Rational&lt;/h2&gt;&lt;p&gt;Empathy gap 適用「法西斯」，亦同樣適用於「反法西斯」：&lt;/p&gt;
+&lt;p&gt;當我們足夠理性的時候，我們能夠意識到我們在支持什麼、批判什麼或反對什麼，可矛盾的是，常常我們置身其中的時候，我們會失去理智。也就是說，一旦我們陷入一種「不理性」的狀態之中，我們很難去想象並體會什麼纔是真正&lt;strong&gt;理性的狀態&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;恐怖組織本身是沒有人性可談的，同時在執行恐怖襲擊時必然是處於&lt;strong&gt;喪失理性的狀態&lt;/strong&gt;的；可怕的是，恐怖襲擊會讓我們生活在恐懼之中，讓我們在某些情況下變得失去理智，讓旁觀者陷入一種暴力的思維模式，好像派十萬大軍直搗 ISIS 老窩世界就會恢復太平一樣。然而，戰爭本身也只會讓人們愈加喪失理智，一旦開始了便很難再停下來。&lt;/p&gt;
+&lt;p&gt;我並沒準備繼續討論是否應該「以暴制暴」的問題，而是思考說「以暴制暴」這種思維方式是否會讓人喪失基本的理性。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Drones&lt;/em&gt; 在 &lt;a href=&quot;https://play.google.com/store/music/album/Muse_Drones?id=Bb6qc6b5nffqvmjpth5u5d6mrta&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google Play Store 正以 0.99$ 促銷&lt;/a&gt;，有興趣的朋友可以收了，健身好伴侶。〔相比 &lt;a href=&quot;https://itunes.apple.com/us/album/drones/id973555620&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;iTunes Store 要 10.99$&lt;/a&gt; 〕&lt;/p&gt;
+&lt;p&gt;專輯最動人的一首歌是 &lt;a href=&quot;https://itunes.apple.com/us/album/aftermath/id973555620?i=973556129&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Aftermath&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Drones_(Muse_album&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Drones&lt;/em&gt;&lt;/a&gt;) 較 &lt;a href=&quot;https://en.wiki
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>酒後廿四小時</title>
+    <link href="http://yoursite.com/2015/11/23/24-hours-after-being-drunk/"/>
+    <id>http://yoursite.com/2015/11/23/24-hours-after-being-drunk/</id>
+    <published>2015-11-23T07:09:40.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;C₂H₅OH 及其分解產物依舊在敲擊着腦殼。&lt;/p&gt;
+&lt;p&gt;這不是我第一次過量飲酒，不是我第一次嘔吐，亦非我第一次向自己承諾說「以後再牠嬤跟這羣傻屄喝老子就XXX」；但我希望這是最後一次。&lt;/p&gt;
+&lt;h2 id=&quot;家庭氛圍&quot;&gt;&lt;a href=&quot;#家庭氛圍&quot; class=&quot;headerlink&quot; title=&quot;家庭氛圍&quot;&gt;&lt;/a&gt;家庭氛圍&lt;/h2&gt;&lt;p&gt;不知是因爲骨子裏那幾分滿人的血統，還僅僅是年幼好奇心的驅使；在我尚不能獨自用餐之時，便懂得去嗅長者們喝光的酒瓶。每每過年，都要用筷子去蘸一滴，並裝出一副津津有味的模樣。即便到現在本性也未改，饞美酒或甚於饞美食。&lt;/p&gt;
+&lt;p&gt;成年之後，每逢佳節全家團聚時，母親都會叮囑我去給長輩們敬酒，不談量多量少，也要表個心意，祝福身體健康、工作順利 blablabla。可我深知自己本性內向，剛開始那兩年，覺得這種「禮節」根本就是一種折磨，「當衆敬酒」對那時的我來說等同於「當衆脫衣」。而那時的我又是一個尤其在意別人對自己看法的人：不去主動敬酒——「這孩子不乖，沒有禮貌」；主動敬酒——「XX 真乖，真懂禮貌」。以至於我每次在沒有「完成任務」之前的用餐都沒辦法盡興，好像有一萬隻眼睛在看着你；每吃一口菜，每偷偷喝一口酒都像是犯罪一樣。只要坐上那張椅子，無形的壓力便讓你用餐的興致全無。&lt;/p&gt;
+&lt;p&gt;雖然說家庭的飲食氛圍可能沒我所描述的那麼壓抑，但這種奇怪的「社會禮教文化」已經默默地刻在長輩們的心裏了。儘管長輩們再如何隨意，幼輩們對這種場合的期望已經潛移默化地成型了。&lt;/p&gt;
+&lt;h2 id=&quot;乙醇&quot;&gt;&lt;a href=&quot;#乙醇&quot; class=&quot;headerlink&quot; title=&quot;乙醇&quot;&gt;&lt;/a&gt;乙醇&lt;/h2&gt;&lt;p&gt;維基百科&lt;a href=&quot;https://en.wikipedia.org/wiki/Wine#Health_effects&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;紅酒的詞條中對健康的影響&lt;/a&gt;作了如下描述：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Drinking small quantities of alcohol (less than one drink in women and two in men) is associated with a decreased risk of heart disease, stroke, diabetes mellitus, and early death. Drinking more than this amount; however, increases the risk of heart disease, high blood pressure, atrial fibrillation, and stroke. Risk is greater in younger people due to binge drinking which may result in violence or accidents. About 3.3 million deaths (5.9% of all deaths) are believed to be due to alcohol each year. Alcoholism reduces a person&amp;rsquo;s life expectancy by around ten years and alcohol use is the third leading cause of early death in the United States. No professional medical association recommends that people who are nondrinkers should start drinking wine.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;怎樣定義「少量」？——少於一兩口。「沒有任何專業的醫療機構會因爲『少量飲酒』有益健康而去建議不飲酒的人應該開始飲酒」。&lt;/p&gt;
+&lt;p&gt;「本來不飲酒的人」？真是天方夜譚。&lt;/p&gt;
+&lt;p&gt;You ain&amp;rsquo;t got no alternative in China.&lt;/p&gt;
+&lt;h2 id=&quot;「到位」&quot;&gt;&lt;a href=&quot;#「到位」&quot; class=&quot;headerlink&quot; title=&quot;「到位」&quot;&gt;&lt;/a&gt;「到位」&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;小宋，把王總陪好沒有？&lt;/p&gt;
+&lt;p&gt;李總今天沒喝到位啊！再整兩瓶啤的！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;紅酒必須滿到杯口乾？幹！&lt;/p&gt;
+&lt;p&gt;拿紅酒杯裝白酒過半乾？幹！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我給你說，喝酒就是這樣喝的。你這才出來混幾年啊，老子都在這兒幹了二十年了，出來混啊，總是要付出代價的。你這喝得算個球啊，老子們喝成這樣的時候多了去了。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;嗯，彷彿炫耀說，「看，老子身體多差，老子多能吃苦。看看老子的啤酒肚，不比你一身肌肉牛屄。看，老子肯定牠嬤早死活不長怎麼着！」&lt;/p&gt;
+&lt;p&gt;用「噁心」來形容這種「文化」我覺得並不夠「到位」，一定要用「變態」。&lt;/p&gt;
+&lt;p&gt;我的異國健身基友小牟經常抱怨道：「哎，一個星期又白練了。肏！」而昨晚，是他喝得最難受的一次。&lt;/p&gt;
+&lt;p&gt;當你看到一個本來作息規律、有求知慾、有毅力且高大健碩的漢子居然能被酒精搞成這個樣子，不禁想肏這個體制三百六十遍。&lt;/p&gt;
+&lt;p&gt;知乎上「中國的勸酒文化背後的邏輯是什麼？」&lt;a href=&quot;http://www.zhihu.com/question/28311266&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;這個問題下@肥肥猫的回答&lt;/a&gt;點出了其本質：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;中国政界和商界的劝酒文化绝不仅仅只是个礼仪性的东西，而是有非常明确的实际功能的，具体而言，要实现两个目的：服从性测试和诚意测试。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;前者是展示自己的權力，後者是檢驗你是否「喝到位」了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;最後，我好像得出了一個結論：&lt;/p&gt;
+&lt;p&gt;進國企、做公務員 = 慢性自殺。&lt;/p&gt;
+&lt;p&gt;從此以往，強大自己的內心，切勿爲了面子丟了身體。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;C₂H₅OH 及其分解產物依舊在敲擊着腦殼。&lt;/p&gt;
+&lt;p&gt;這不是我第一次過量飲酒，不是我第一次嘔吐，亦非我第一次向自己承諾說「以後再牠嬤跟這羣傻屄喝老子就XXX」；但我希望這是最後一次。&lt;/p&gt;
+&lt;h2 id=&quot;家庭氛圍&quot;&gt;&lt;a href=&quot;#家庭氛圍&quot; class=&quot;h
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>the-great-f-wall-of-china</title>
+    <link href="http://yoursite.com/2015/11/13/the-great-f-wall-of-china/"/>
+    <id>http://yoursite.com/2015/11/13/the-great-f-wall-of-china/</id>
+    <published>2015-11-13T12:35:16.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/11/tumblr_nxri2t5p4x1t7ana6o1_1280.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;The-Great-F-Wall-of-China&quot;&gt;&lt;a href=&quot;#The-Great-F-Wall-of-China&quot; class=&quot;headerlink&quot; title=&quot;The Great F* Wall of China&quot;&gt;&lt;/a&gt;The Great F* Wall of China&lt;/h2&gt;&lt;p&gt;Not only is it standing, but it is so fucking “outstanding” that &lt;a href=&quot;https://en.wikipedia.org/wiki/Internet_in_China&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;strong&gt;&lt;em&gt;we cannot reach every corner in the world&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And vice versa, btw.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/11/tumblr_nxri2t5p4x1t7ana6o1_1280.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;The-Great-F-Wall-of-C
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>graduation-party</title>
+    <link href="http://yoursite.com/2015/11/08/graduation-party/"/>
+    <id>http://yoursite.com/2015/11/08/graduation-party/</id>
+    <published>2015-11-08T03:47:12.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;[audio &lt;a href=&quot;http://dyingsunbeam.files.wordpress.com/2015/11/tumblr_nxhkaope4f1t7ana6o1.mp3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://dyingsunbeam.files.wordpress.com/2015/11/tumblr_nxhkaope4f1t7ana6o1.mp3&lt;/a&gt;]&lt;/p&gt;
+&lt;h2 id=&quot;大學畢業班級聚餐之酒後狂歡&quot;&gt;&lt;a href=&quot;#大學畢業班級聚餐之酒後狂歡&quot; class=&quot;headerlink&quot; title=&quot;大學畢業班級聚餐之酒後狂歡&quot;&gt;&lt;/a&gt;大學畢業班級聚餐之酒後狂歡&lt;/h2&gt;&lt;p&gt;「因爲我單身，所以我自由」&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;錄製於二〇一五年五月廿三日&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;[audio &lt;a href=&quot;http://dyingsunbeam.files.wordpress.com/2015/11/tumblr_nxhkaope4f1t7ana6o1.mp3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://dyi
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>further-distance</title>
+    <link href="http://yoursite.com/2015/11/03/further-distance/"/>
+    <id>http://yoursite.com/2015/11/03/further-distance/</id>
+    <published>2015-11-03T05:20:50.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/11/tumblr_nx8faq3lhg1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;半個地球&quot;&gt;&lt;a href=&quot;#半個地球&quot; class=&quot;headerlink&quot; title=&quot;半個地球&quot;&gt;&lt;/a&gt;半個地球&lt;/h2&gt;&lt;p&gt;一年前還是兩米內可以隨性撹基的兩個室友，如今竟橫跨了兩個大洋，相隔了半個地球。&lt;/p&gt;
+&lt;p&gt;継而隔二海相望一載畢，或重返那魂縈夢牽的山都邪？&lt;/p&gt;
+&lt;p&gt;亦感慨人事變遷之不可丈量焉。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/11/tumblr_nx8faq3lhg1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;半個地球&quot;&gt;&lt;a href=&quot;#半個地球&quot;
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="mood" scheme="http://yoursite.com/tags/mood/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「共產醫術」</title>
+    <link href="http://yoursite.com/2015/10/29/e5-85-b1-e7-94-a2-e9-86-ab-e8-a1-93/"/>
+    <id>http://yoursite.com/2015/10/29/e5-85-b1-e7-94-a2-e9-86-ab-e8-a1-93/</id>
+    <published>2015-10-29T15:38:39.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;全体队员对照《XXX管理办法》、《XXX管理规定》开展批评与自我批评，对照相关规定重点查找自己存在的问题和不足，进行深层次的剖析，达到&lt;strong&gt;「红红脸、出出汗、排排毒、治治病」&lt;/strong&gt;的目的。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;畳詞的使用如此之恰到好処，共產醫術真・高明。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;全体队员对照《XXX管理办法》、《XXX管理规定》开展批评与自我批评，对照相关规定重点查找自己存在的问题和不足，进行深层次的剖析，达到&lt;strong&gt;「红红脸、出出汗、排排毒、治治病」&lt;/strong&gt;的目的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>le-soleil-chouchant</title>
+    <link href="http://yoursite.com/2015/10/10/le-soleil-chouchant/"/>
+    <id>http://yoursite.com/2015/10/10/le-soleil-chouchant/</id>
+    <published>2015-10-10T16:16:33.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/10/tumblr_nw0tnlvwpb1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;「風華雪月不䓁人」&quot;&gt;&lt;a href=&quot;#「風華雪月不䓁人」&quot; class=&quot;headerlink&quot; title=&quot;「風華雪月不䓁人」&quot;&gt;&lt;/a&gt;「風華雪月不䓁人」&lt;/h2&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/10/tumblr_nw0tnlvwpb1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;「風華雪月不䓁人」&quot;&gt;&lt;a href=&quot;#
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>56</title>
+    <link href="http://yoursite.com/2015/09/19/56/"/>
+    <id>http://yoursite.com/2015/09/19/56/</id>
+    <published>2015-09-19T14:38:26.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;[gallery]&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;[gallery]&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>update-5-9-2015</title>
+    <link href="http://yoursite.com/2015/09/04/update-5-9-2015/"/>
+    <id>http://yoursite.com/2015/09/04/update-5-9-2015/</id>
+    <published>2015-09-04T15:50:41.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/09/tumblr_nu64gh1ifs1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;芸術創作-UPDATE&quot;&gt;&lt;a href=&quot;#芸術創作-UPDATE&quot; class=&quot;headerlink&quot; title=&quot;芸術創作|UPDATE&quot;&gt;&lt;/a&gt;芸術創作|UPDATE&lt;/h2&gt;&lt;p&gt;近期計劃：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;邱導的獨立紀錄片 «天府往事» 因爲工作原因進度緩慢，給第一場第一鏡寫的好幾段 DEMO 自己總不滿意，在此給邱導表示下歉意。希望能在十一月放假後完成前幾場的草稿；&lt;/li&gt;
+&lt;li&gt;非洲島囯漢文化囯際傳播志願隊也想要一首聴起來很酷的隊歌，咦；&lt;/li&gt;
+&lt;li&gt;照片積了一堆，待整理。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;意淫的初歩五年計劃：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;个人專輯的製作；&lt;/li&gt;
+&lt;li&gt;Nonsectarian - «內心深処的斑瓓大海» redo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;別無牠求矣。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/09/tumblr_nu64gh1ifs1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;芸術創作-UPDATE&quot;&gt;&lt;a href=
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
+    
+  </entry>
+  
+</feed>
