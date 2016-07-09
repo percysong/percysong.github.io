@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-07-09T05:34:16.000Z</updated>
+  <updated>2016-07-09T06:30:49.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,58 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/07/09/hello-world/"/>
-    <id>http://yoursite.com/2016/07/09/hello-world/</id>
-    <published>2016-07-09T05:34:16.000Z</published>
-    <updated>2016-07-09T05:34:16.000Z</updated>
-    
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo server&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo generate&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo deploy&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>un-film-en-francais-pour-le-premiere-fois</title>
-    <link href="http://yoursite.com/2016/03/26/un-film-en-francais-pour-le-premiere-fois/"/>
-    <id>http://yoursite.com/2016/03/26/un-film-en-francais-pour-le-premiere-fois/</id>
-    <published>2016-03-26T07:21:18.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2016/03/tumblr_o4n8vjsykm1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Un film en français, pour le première fois. Surtout, sans sous-titres…&lt;/p&gt;
-&lt;p&gt;Parce-que il n’y pas le version en anglais. &lt;/p&gt;
-&lt;p&gt;🙂🙂🙂&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2016/03/tumblr_o4n8vjsykm1t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Un film en français, pour 
-    
-    </summary>
-    
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>一八九六、一九六八、一九八六和二零一六</title>
@@ -420,9 +368,9 @@
       <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
     
     
-      <category term="music" scheme="http://yoursite.com/tags/music/"/>
-    
       <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
     
   </entry>
   
@@ -614,30 +562,6 @@
   </entry>
   
   <entry>
-    <title>56</title>
-    <link href="http://yoursite.com/2015/09/19/56/"/>
-    <id>http://yoursite.com/2015/09/19/56/</id>
-    <published>2015-09-19T14:38:26.000Z</published>
-    <updated>2016-07-09T06:30:49.000Z</updated>
-    
-    <content type="html">&lt;p&gt;[gallery]&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;[gallery]&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
-    
-      <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
-    
-  </entry>
-  
-  <entry>
     <title>update-5-9-2015</title>
     <link href="http://yoursite.com/2015/09/04/update-5-9-2015/"/>
     <id>http://yoursite.com/2015/09/04/update-5-9-2015/</id>
@@ -671,6 +595,111 @@
     
     
       <category term="photo" scheme="http://yoursite.com/tags/photo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centre-de-jeunesse</title>
+    <link href="http://yoursite.com/2015/07/27/centre-de-jeunesse/"/>
+    <id>http://yoursite.com/2015/07/27/centre-de-jeunesse/</id>
+    <published>2015-07-27T12:41:31.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/07/tumblr_ns5np7uqt11t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Centre de Jeunesse.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://dyingsunbeam.files.wordpress.com/2015/07/tumblr_ns5np7uqt11t7ana6o1_1280.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Centre de Jeunesse.&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HTTP 404</title>
+    <link href="http://yoursite.com/2015/06/17/http-404/"/>
+    <id>http://yoursite.com/2015/06/17/http-404/</id>
+    <published>2015-06-17T06:15:07.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;在回家的大巴上，突然想自己畫一個頭像，於是腦海中便浮現出一個関於 &lt;a href=&quot;https://en.wikipedia.org/wiki/HTTP_404&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;ldquo; HTTP 404&amp;rdquo;&lt;/a&gt; 的漫畫。昨晚一時興起畫了一個草圖出來：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/QIOAukn.jpg&quot; alt=&quot;pic&quot;&gt;&lt;/p&gt;
+&lt;p&gt;用 &lt;a href=&quot;http://www.enlightapp.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Enlight&lt;/a&gt; 套了一個迷幻彩色濾鏡的效果如下：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/QiYPvH6.jpg&quot; alt=&quot;pic&quot;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;對了，題目就叫《生活在 &amp;ldquo;404&amp;rdquo; 世界的燦爛面容》。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在回家的大巴上，突然想自己畫一個頭像，於是腦海中便浮現出一個関於 &lt;a href=&quot;https://en.wikipedia.org/wiki/HTTP_404&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&amp;ldquo; HTTP 404&amp;rdquo;&lt;
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="cartoon" scheme="http://yoursite.com/tags/cartoon/"/>
+    
+      <category term="drawing" scheme="http://yoursite.com/tags/drawing/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Why Telegram</title>
+    <link href="http://yoursite.com/2015/06/07/why-telegram/"/>
+    <id>http://yoursite.com/2015/06/07/why-telegram/</id>
+    <published>2015-06-07T11:57:46.000Z</published>
+    <updated>2016-07-09T06:30:49.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://telegram.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Telegram&lt;/a&gt; 是一對老毛弟兄——Pavel and Nikolai Durov——做的一款通訊軟體，Pavel 提供金錢上和精神上的支持，Nikolai 則負責技術開發。&lt;/p&gt;
+&lt;p&gt;感謝 Coffey 同學同我試用 Telegram。經過一天的把玩，我想小小總結一下。&lt;/p&gt;
+&lt;p&gt;唯一痛點：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;註冊及登錄的條件有且僅有「電話號碼」這一個選項。電話作為一串可能時常發生變動的數字，完全不適合用做註冊及登錄賬號，即便可以在設置里更換號碼。作為註冊賬號的另一個常用手段，不知 Email 有什麼可以挑剔的地方。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;優點：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;簡約。&lt;/li&gt;
+&lt;li&gt;快，真的快。〔速度完勝 iMessage〕&lt;/li&gt;
+&lt;li&gt;多平台同時登錄且聊天記錄無縫同步。〔完勝 Wechat, Whatsapp, etc. 〕&lt;/li&gt;
+&lt;li&gt;更適合團隊協作以及企業用戶。〔最大支持 200 人的群，更方便傳輸各種原文件〕&lt;/li&gt;
+&lt;li&gt;隱私保護。Nikolai 創造了高度私密的&lt;a href=&quot;https://core.telegram.org/mtproto&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; MTProto 協議&lt;/a&gt;，並且公司還公開&lt;a href=&quot;http://www.bbc.co.uk/news/technology-25444035&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;懸賞 $200,000 給能夠 hack 這個加密系統&lt;/a&gt;的人。〔安全性幾乎超過市面上絕大多數 IM 軟體，與 iMessage 相當。很多人覺得個人隱私無所謂，偶爾被密友們詢問賬號密碼時，都是圖一時方便就直接在微信/短信上以明文的形式輸入進入系統了。你私以為只是悄悄告訴了你的朋友，但實質上你是把你的賬號密碼直接告訴了騰訊/運營商。問題是：「你究竟在多大程度上相信這些公司的道德底線不會越界？」&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你恰好不喜歡在一個聊天軟件裡刷新朋友動態，如果你恰好無法忍受微信繁瑣的桌面端/多設備的登陸模式，如果你恰好苦惱於各個設備之間的消息不同步，如果你恰好在乎自己的隱私，如果你樂於嘗試新鮮事物。那麼，來同你的親友們共同體驗一下 Telegram 吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The Wire 上一篇名為 &lt;a href=&quot;http://www.wired.co.uk/magazine/archive/2015/03/features/messaging-apps&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Messaging Apps Shouldn’t Make Money&lt;/em&gt;&lt;/a&gt; 的文章中詳細採訪了這對兄弟。有幾段對話我想摘錄分享下：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As he had posted on Facebook itself a few weeks earlier, he and his team of 12 engineers were in search of “a country that will allow us to develop our projects with privacy and freedom of speech in mind. To give you an idea of our preferences,” he wrote, &lt;strong&gt;“we dislike bureaucracy, police states, big governments, wars, socialism and excessive regulation. We like freedoms, strong judicial systems, small governments, free markets, neutrality and civil rights.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;He was simply a tech guy who had unwittingly waded into politics. “Obviously I do have political views – &lt;strong&gt;I’m a believer in the free-market economy; I also believe that without competition and respect for human rights there will be no progress because nobody will feel safe and free.&lt;/strong&gt; But what I’ve been trying to do is create value for our users and be honest with them. I chose to try to do the right thing. It doesn’t make sense to keep going forward without strong principles. I don’t think money is the thing that can make you go forward – it’s ideas that you believe in.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;文章的最後，更加顯現出他們無政府主義的信念：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“My advice would work for any country – don’t be bound by the opinions of others,” he replies. “The majority is almost certainly wrong. If you can, try contributing to the global market, not the local one. If you face excessive regulation or over-taxation, move to another country.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;不要覺得這是件多麼麻煩的事，我衹是不甘心被大众的盲目選擇所「壟斷」罷了。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;https://telegram.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Telegram&lt;/a&gt; 是一對老毛弟兄——Pavel and Nikolai Durov——做的一款通訊軟體，Pavel 提供金錢上和精神上的支持，
+    
+    </summary>
+    
+      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+    
+    
+      <category term="essay" scheme="http://yoursite.com/tags/essay/"/>
+    
+      <category term="technology" scheme="http://yoursite.com/tags/technology/"/>
     
   </entry>
   
