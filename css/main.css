@@ -1415,6 +1415,7 @@ pre .javascript .function {
 @media (max-width: 767px) {
   .sidebar {
     display: true;
+    width: 100px;
   }
 }
 .sidebar-inner {
