@@ -860,7 +860,7 @@ pre .javascript .function {
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .back-to-top {
-    display: none;
+    display: true;
   }
 }
 .back-to-top.back-to-top-on {
@@ -1414,8 +1414,7 @@ pre .javascript .function {
 }
 @media (max-width: 767px) {
   .sidebar {
-    display: true;
-    width: 100px;
+    display: none;
   }
 }
 .sidebar-inner {
@@ -1444,7 +1443,7 @@ pre .javascript .function {
 }
 @media (max-width: 767px) {
   .sidebar-toggle {
-    display: true;
+    display: none;
   }
 }
 .sidebar-toggle-line {
