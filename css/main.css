@@ -1409,12 +1409,12 @@ pre .javascript .function {
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .sidebar {
-    display: none !important;
+    display: true;
   }
 }
 @media (max-width: 767px) {
   .sidebar {
-    display: none !important;
+    display: true;
   }
 }
 .sidebar-inner {
@@ -1438,12 +1438,12 @@ pre .javascript .function {
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .sidebar-toggle {
-    display: none;
+    display: true;
   }
 }
 @media (max-width: 767px) {
   .sidebar-toggle {
-    display: none;
+    display: true;
   }
 }
 .sidebar-toggle-line {
@@ -1546,7 +1546,6 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f66cff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2066,7 +2065,7 @@ a.search-result {
   position: absolute;
   top: 11px;
   left: 0;
-  margin-left: -6px;
+  margin-left: -8px;
   width: 10px;
   height: 10px;
   opacity: 0.5;
