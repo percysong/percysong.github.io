@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Dying Sunbeam</title>
   
-  <link href="/tags/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="http://dyingsunbeam.com/tags/"/>
+  <link href="http://dyingsunbeam.com/"/>
   <updated>2016-07-09T18:35:58.000Z</updated>
-  <id>http://dyingsunbeam.com/tags/</id>
+  <id>http://dyingsunbeam.com/</id>
   
   <author>
     <name>Percy Song</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>一八九六、一九六八、一九八六和二零一六</title>
-    <link href="http://dyingsunbeam.com/tags/2016/03/12/1986-1968-1896/"/>
-    <id>http://dyingsunbeam.com/tags/2016/03/12/1986-1968-1896/</id>
+    <link href="http://dyingsunbeam.com/2016/03/12/1986-1968-1896/"/>
+    <id>http://dyingsunbeam.com/2016/03/12/1986-1968-1896/</id>
     <published>2016-03-12T17:19:53.000Z</published>
     <updated>2016-07-09T18:35:58.000Z</updated>
     
@@ -50,17 +50,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="music" scheme="http://dyingsunbeam.com/tags/tags/music/"/>
+      <category term="music" scheme="http://dyingsunbeam.com/tags/music/"/>
     
   </entry>
   
   <entry>
     <title>Google Cardboard - First Impression</title>
-    <link href="http://dyingsunbeam.com/tags/2015/12/31/google-cardboard/"/>
-    <id>http://dyingsunbeam.com/tags/2015/12/31/google-cardboard/</id>
+    <link href="http://dyingsunbeam.com/2015/12/31/google-cardboard/"/>
+    <id>http://dyingsunbeam.com/2015/12/31/google-cardboard/</id>
     <published>2015-12-31T04:54:17.000Z</published>
     <updated>2016-07-09T18:53:45.000Z</updated>
     
@@ -85,17 +85,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="tech" scheme="http://dyingsunbeam.com/tags/tags/tech/"/>
+      <category term="tech" scheme="http://dyingsunbeam.com/tags/tech/"/>
     
   </entry>
   
   <entry>
     <title>我的父親</title>
-    <link href="http://dyingsunbeam.com/tags/2015/12/25/my-father/"/>
-    <id>http://dyingsunbeam.com/tags/2015/12/25/my-father/</id>
+    <link href="http://dyingsunbeam.com/2015/12/25/my-father/"/>
+    <id>http://dyingsunbeam.com/2015/12/25/my-father/</id>
     <published>2015-12-25T14:49:54.000Z</published>
     <updated>2016-07-09T18:49:09.000Z</updated>
     
@@ -134,15 +134,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>在一個「愛」無法超越宗教信仰的世界裏</title>
-    <link href="http://dyingsunbeam.com/tags/2015/12/21/respect-and-love/"/>
-    <id>http://dyingsunbeam.com/tags/2015/12/21/respect-and-love/</id>
+    <link href="http://dyingsunbeam.com/2015/12/21/respect-and-love/"/>
+    <id>http://dyingsunbeam.com/2015/12/21/respect-and-love/</id>
     <published>2015-12-21T14:19:03.000Z</published>
     <updated>2016-07-09T18:50:38.000Z</updated>
     
@@ -165,15 +165,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>Incited by The Anti-Indoctrination</title>
-    <link href="http://dyingsunbeam.com/tags/2015/11/29/drones-muse/"/>
-    <id>http://dyingsunbeam.com/tags/2015/11/29/drones-muse/</id>
+    <link href="http://dyingsunbeam.com/2015/11/29/drones-muse/"/>
+    <id>http://dyingsunbeam.com/2015/11/29/drones-muse/</id>
     <published>2015-11-29T11:14:40.000Z</published>
     <updated>2016-07-09T18:36:36.000Z</updated>
     
@@ -227,17 +227,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="music" scheme="http://dyingsunbeam.com/tags/tags/music/"/>
+      <category term="music" scheme="http://dyingsunbeam.com/tags/music/"/>
     
   </entry>
   
   <entry>
     <title>酒後廿四小時</title>
-    <link href="http://dyingsunbeam.com/tags/2015/11/23/24-hours-after-being-drunk/"/>
-    <id>http://dyingsunbeam.com/tags/2015/11/23/24-hours-after-being-drunk/</id>
+    <link href="http://dyingsunbeam.com/2015/11/23/24-hours-after-being-drunk/"/>
+    <id>http://dyingsunbeam.com/2015/11/23/24-hours-after-being-drunk/</id>
     <published>2015-11-23T07:09:40.000Z</published>
     <updated>2016-07-09T18:36:13.000Z</updated>
     
@@ -284,15 +284,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>the-great-f-wall-of-china</title>
-    <link href="http://dyingsunbeam.com/tags/2015/11/13/the-great-f-wall-of-china/"/>
-    <id>http://dyingsunbeam.com/tags/2015/11/13/the-great-f-wall-of-china/</id>
+    <link href="http://dyingsunbeam.com/2015/11/13/the-great-f-wall-of-china/"/>
+    <id>http://dyingsunbeam.com/2015/11/13/the-great-f-wall-of-china/</id>
     <published>2015-11-13T12:35:16.000Z</published>
     <updated>2016-07-09T18:51:53.000Z</updated>
     
@@ -308,15 +308,15 @@
     
     </summary>
     
-      <category term="Photo" scheme="http://dyingsunbeam.com/tags/categories/Photo/"/>
+      <category term="Photo" scheme="http://dyingsunbeam.com/categories/Photo/"/>
     
     
   </entry>
   
   <entry>
     <title>le-soleil-chouchant</title>
-    <link href="http://dyingsunbeam.com/tags/2015/10/10/le-soleil-chouchant/"/>
-    <id>http://dyingsunbeam.com/tags/2015/10/10/le-soleil-chouchant/</id>
+    <link href="http://dyingsunbeam.com/2015/10/10/le-soleil-chouchant/"/>
+    <id>http://dyingsunbeam.com/2015/10/10/le-soleil-chouchant/</id>
     <published>2015-10-10T16:16:33.000Z</published>
     <updated>2016-07-09T18:46:42.000Z</updated>
     
@@ -330,15 +330,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>centre-de-jeunesse</title>
-    <link href="http://dyingsunbeam.com/tags/2015/07/27/centre-de-jeunesse/"/>
-    <id>http://dyingsunbeam.com/tags/2015/07/27/centre-de-jeunesse/</id>
+    <link href="http://dyingsunbeam.com/2015/07/27/centre-de-jeunesse/"/>
+    <id>http://dyingsunbeam.com/2015/07/27/centre-de-jeunesse/</id>
     <published>2015-07-27T12:41:31.000Z</published>
     <updated>2016-07-09T18:35:48.000Z</updated>
     
@@ -354,15 +354,15 @@
     
     </summary>
     
-      <category term="Photo" scheme="http://dyingsunbeam.com/tags/categories/Photo/"/>
+      <category term="Photo" scheme="http://dyingsunbeam.com/categories/Photo/"/>
     
     
   </entry>
   
   <entry>
     <title>Why Telegram</title>
-    <link href="http://dyingsunbeam.com/tags/2015/06/07/why-telegram/"/>
-    <id>http://dyingsunbeam.com/tags/2015/06/07/why-telegram/</id>
+    <link href="http://dyingsunbeam.com/2015/06/07/why-telegram/"/>
+    <id>http://dyingsunbeam.com/2015/06/07/why-telegram/</id>
     <published>2015-06-07T11:57:46.000Z</published>
     <updated>2016-07-09T18:53:17.000Z</updated>
     
@@ -400,17 +400,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="tech" scheme="http://dyingsunbeam.com/tags/tags/tech/"/>
+      <category term="tech" scheme="http://dyingsunbeam.com/tags/tech/"/>
     
   </entry>
   
   <entry>
     <title>Resistance to the Digital Age</title>
-    <link href="http://dyingsunbeam.com/tags/2015/05/22/resistance-to-the-digital-age/"/>
-    <id>http://dyingsunbeam.com/tags/2015/05/22/resistance-to-the-digital-age/</id>
+    <link href="http://dyingsunbeam.com/2015/05/22/resistance-to-the-digital-age/"/>
+    <id>http://dyingsunbeam.com/2015/05/22/resistance-to-the-digital-age/</id>
     <published>2015-05-22T03:20:50.000Z</published>
     <updated>2016-07-09T18:50:11.000Z</updated>
     
@@ -447,15 +447,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>And Being Freaky Is What Makes A Human Human</title>
-    <link href="http://dyingsunbeam.com/tags/2015/05/04/strawberry-festival/"/>
-    <id>http://dyingsunbeam.com/tags/2015/05/04/strawberry-festival/</id>
+    <link href="http://dyingsunbeam.com/2015/05/04/strawberry-festival/"/>
+    <id>http://dyingsunbeam.com/2015/05/04/strawberry-festival/</id>
     <published>2015-05-03T23:31:39.000Z</published>
     <updated>2016-07-09T18:51:24.000Z</updated>
     
@@ -488,17 +488,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="music" scheme="http://dyingsunbeam.com/tags/tags/music/"/>
+      <category term="music" scheme="http://dyingsunbeam.com/tags/music/"/>
     
   </entry>
   
   <entry>
     <title>人總是有虛榮心的</title>
-    <link href="http://dyingsunbeam.com/tags/2015/03/16/hormone/"/>
-    <id>http://dyingsunbeam.com/tags/2015/03/16/hormone/</id>
+    <link href="http://dyingsunbeam.com/2015/03/16/hormone/"/>
+    <id>http://dyingsunbeam.com/2015/03/16/hormone/</id>
     <published>2015-03-16T13:25:33.000Z</published>
     <updated>2016-07-09T18:46:23.000Z</updated>
     
@@ -529,15 +529,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>「無宗派」沒有消失，她只是不知不覺中扎根到了你的心裡。</title>
-    <link href="http://dyingsunbeam.com/tags/2015/02/20/nonsectarian-does-not-disappear/"/>
-    <id>http://dyingsunbeam.com/tags/2015/02/20/nonsectarian-does-not-disappear/</id>
+    <link href="http://dyingsunbeam.com/2015/02/20/nonsectarian-does-not-disappear/"/>
+    <id>http://dyingsunbeam.com/2015/02/20/nonsectarian-does-not-disappear/</id>
     <published>2015-02-20T03:43:00.000Z</published>
     <updated>2016-07-09T18:39:15.000Z</updated>
     
@@ -566,17 +566,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="music" scheme="http://dyingsunbeam.com/tags/tags/music/"/>
+      <category term="music" scheme="http://dyingsunbeam.com/tags/music/"/>
     
   </entry>
   
   <entry>
     <title>「自由」總歸是 Nice Things 的前提</title>
-    <link href="http://dyingsunbeam.com/tags/2015/02/09/travel-notes-in-Thiland/"/>
-    <id>http://dyingsunbeam.com/tags/2015/02/09/travel-notes-in-Thiland/</id>
+    <link href="http://dyingsunbeam.com/2015/02/09/travel-notes-in-Thiland/"/>
+    <id>http://dyingsunbeam.com/2015/02/09/travel-notes-in-Thiland/</id>
     <published>2015-02-09T15:18:00.000Z</published>
     <updated>2016-07-09T18:40:54.000Z</updated>
     
@@ -622,17 +622,17 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="travel" scheme="http://dyingsunbeam.com/tags/tags/travel/"/>
+      <category term="travel" scheme="http://dyingsunbeam.com/tags/travel/"/>
     
   </entry>
   
   <entry>
     <title>戴着面具 自我逃避</title>
-    <link href="http://dyingsunbeam.com/tags/2015/01/09/escape-the-festival/"/>
-    <id>http://dyingsunbeam.com/tags/2015/01/09/escape-the-festival/</id>
+    <link href="http://dyingsunbeam.com/2015/01/09/escape-the-festival/"/>
+    <id>http://dyingsunbeam.com/2015/01/09/escape-the-festival/</id>
     <published>2015-01-09T13:07:00.000Z</published>
     <updated>2016-07-09T18:42:51.000Z</updated>
     
@@ -705,15 +705,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>對於「有沒有用」，我們應該回應什麼</title>
-    <link href="http://dyingsunbeam.com/tags/2014/11/05/useful-useless/"/>
-    <id>http://dyingsunbeam.com/tags/2014/11/05/useful-useless/</id>
+    <link href="http://dyingsunbeam.com/2014/11/05/useful-useless/"/>
+    <id>http://dyingsunbeam.com/2014/11/05/useful-useless/</id>
     <published>2014-11-04T23:37:00.000Z</published>
     <updated>2016-07-09T18:52:25.000Z</updated>
     
@@ -740,15 +740,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>爲什麼我不努力</title>
-    <link href="http://dyingsunbeam.com/tags/2014/10/20/why-I-am-lazy/"/>
-    <id>http://dyingsunbeam.com/tags/2014/10/20/why-I-am-lazy/</id>
+    <link href="http://dyingsunbeam.com/2014/10/20/why-I-am-lazy/"/>
+    <id>http://dyingsunbeam.com/2014/10/20/why-I-am-lazy/</id>
     <published>2014-10-20T10:45:00.000Z</published>
     <updated>2016-07-09T18:38:09.000Z</updated>
     
@@ -780,15 +780,15 @@
     
     </summary>
     
-      <category term="Essay" scheme="http://dyingsunbeam.com/tags/categories/Essay/"/>
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
   </entry>
   
   <entry>
     <title>first-series-photo-shot-with-my-lost-iphone-5s</title>
-    <link href="http://dyingsunbeam.com/tags/2014/10/20/first-series-photo-shot-with-my-lost-iphone-5s/"/>
-    <id>http://dyingsunbeam.com/tags/2014/10/20/first-series-photo-shot-with-my-lost-iphone-5s/</id>
+    <link href="http://dyingsunbeam.com/2014/10/20/first-series-photo-shot-with-my-lost-iphone-5s/"/>
+    <id>http://dyingsunbeam.com/2014/10/20/first-series-photo-shot-with-my-lost-iphone-5s/</id>
     <published>2014-10-19T23:29:12.000Z</published>
     <updated>2016-07-09T06:30:49.000Z</updated>
     
@@ -805,12 +805,12 @@
     
     </summary>
     
-      <category term="未分类" scheme="http://dyingsunbeam.com/tags/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="未分类" scheme="http://dyingsunbeam.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
     
     
-      <category term="photo" scheme="http://dyingsunbeam.com/tags/tags/photo/"/>
+      <category term="cablecar" scheme="http://dyingsunbeam.com/tags/cablecar/"/>
     
-      <category term="cablecar" scheme="http://dyingsunbeam.com/tags/tags/cablecar/"/>
+      <category term="photo" scheme="http://dyingsunbeam.com/tags/photo/"/>
     
   </entry>
   
