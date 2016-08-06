@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dyingsunbeam.com/"/>
-  <updated>2016-08-05T19:13:45.000Z</updated>
+  <updated>2016-08-05T16:47:25.000Z</updated>
   <id>http://dyingsunbeam.com/</id>
   
   <author>
@@ -14,72 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>HexOn</title>
-    <link href="http://dyingsunbeam.com/2016/08/06/hexon/"/>
-    <id>http://dyingsunbeam.com/2016/08/06/hexon/</id>
-    <published>2016-08-05T16:00:00.000Z</published>
-    <updated>2016-08-05T19:13:45.000Z</updated>
-    
-    <content type="html">&lt;p&gt;大概在兩年前，我購買了 dyingsunbeam.com 域名，在 Tumblr 上搭了自己&lt;a href=&quot;http://dyingsunbeam.tumblr.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;第一箇博客&lt;/a&gt;，並發佈了第一篇文章 &lt;a href=&quot;http://dyingsunbeam.com/2014/10/16/tumblr-on/&quot;&gt;&lt;em&gt;Tumblr On&lt;/em&gt;&lt;/a&gt;。在這篇文章裏，我簡單地談了下這箇名字：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;中學時，我 QQ 空間的主頁叫作 &lt;em&gt;The Setting Sun Below The Forest&lt;/em&gt;，即爲「夢」的簡體字「梦」的象形意之英譯。我至今都很鍾意這箇名字，不過作爲私人博客名顯然太長了，只好再想了一箇。&lt;em&gt;Dying Sunbeam&lt;/em&gt; 這箇名字雖然略顯消極，但若是一個人真正站在樹林中看夕陽下落，它便很生動地描寫了那些光束逐漸消亡的場景。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;博客存在的意義&quot;&gt;&lt;a href=&quot;#博客存在的意義&quot; class=&quot;headerlink&quot; title=&quot;博客存在的意義&quot;&gt;&lt;/a&gt;博客存在的意義&lt;/h2&gt;&lt;p&gt;兩年過去了，我把自己想說的話都放到了自己的博客上，漸漸地擺脫了微博和朋友圈等其他社交网絡的束縛和限制。正如我在 &lt;a href=&quot;http://dyingsunbeam.com/2015/05/22/resistance-to-the-digital-age/&quot;&gt;&lt;em&gt;Resistance To The Digital Age&lt;/em&gt;&lt;/a&gt; 一文中寫到：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我並非在反抗社交或是网絡本身，相反，若要在這箇時代中脫離二者中任意一箇，我們都可能無法継續正常的生活。我所反抗的是一種慣性，一種依賴，抑或一種對現實生活的逃避。我想試圖反抗「下拉刷新」不出任何狀態的焦慮，反抗隨時隨地都想去分享生活瑣事的慾望，反抗機械地點讚與評論時的無所用心。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;當然，我仍需要通過其它社交平臺讓他人來光顧我的主頁。但至少，這様或許能讓人們瞭解到，在這箇時代，除了微博，還有像我一様的痴人在寫博客；除了朋友圈，還有十年前那種「點擊藍色下劃綫的文字便可跳轉」的互聫网；除了打開備忘錄截圖，還可以把自己的文字裝扮得好看一點。&lt;/p&gt;
-&lt;h2 id=&quot;Hexo-是什麼&quot;&gt;&lt;a href=&quot;#Hexo-是什麼&quot; class=&quot;headerlink&quot; title=&quot;Hexo 是什麼&quot;&gt;&lt;/a&gt;Hexo 是什麼&lt;/h2&gt;&lt;p&gt;兩年間也發生了很多事，包括 Tumblr 這箇僅剩的主流社交平臺最終還是被政府幹掉，倒在了墻外。所以即便是獨立的域名，還是會因爲 Tumblr 服務器的緣故使其在囯內無法正常訪問。無奈之下，只好自己動手，比較了幾箇博客框架，最後選擇了 &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;除了 &lt;a href=&quot;http://farbox.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Farbox&lt;/a&gt; 是用 dropbox 服務之外，大多數主流的框架都是基於 &lt;a href=&quot;https://pages.github.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github Pages&lt;/a&gt; 的；所以相比之下，設置起來要麻煩一些。Farbox 借用 Dropbox 發佈文章尤其方便，設置也十分小白；放棄它的原因主要是覺得主題太少了，且需要一定的費用。Hexo 完全免費，且有很多不錯的主題；我現在所使用的便是 Hexo 上最流行的一款主題——&lt;a href=&quot;http://theme-next.iissnan.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Next&lt;/a&gt;。它不僅設計精簡，甚至還有專門的&lt;a href=&quot;http://theme-next.iissnan.com/getting-started.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;配置頁面&lt;/a&gt;，實在令人感動。&lt;/p&gt;
-&lt;h2 id=&quot;選擇我們自己的漢字&quot;&gt;&lt;a href=&quot;#選擇我們自己的漢字&quot; class=&quot;headerlink&quot; title=&quot;選擇我們自己的漢字&quot;&gt;&lt;/a&gt;選擇我們自己的漢字&lt;/h2&gt;&lt;p&gt;我大學本科的畢業論文本來是想寫関於漢字簡化的方向，但在看了許多資料文獻之後，覺得該寫的都被寫爛了，無从下筆，棄之。不過正因爲那些信息，加深了我對漢字的瞭解和興趣。現在再回看自己大三時寫的那篇関於繁體字的文章，顯得幼稚至極。因而，現在的我對文字的態度也開放許多，理性了許多；逐漸認識到了以「就字論字」而不是「非黑即白的簡繁派」的角度來看待漢字的重要性。&lt;/p&gt;
-&lt;p&gt;自从可以相對熟練地用&lt;a href=&quot;https://zh.wikipedia.org/zh-hant/倉頡輸入法&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;倉頡輸入法&lt;/a&gt;來打字之後，我便解放了自己對漢字的使用。因爲相較於音碼，形碼可以讓我自由地選擇每一箇字形的使用，而不再遵循任何唯一一箇囯家或地區的漢字使用標準。因此，在這裏，你會看到繁體字、簡化字以及小部分的日本字形。它們看起來很熟悉，但細觀卻不盡相同。以下是一些字型的比較：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;処〔处〕、攷〔考〕、从「從」等可採用其本字。&lt;/li&gt;
-&lt;li&gt;爲〔為〕、裏〔裡〕採用大陸傳統標準：「為」是草化，「裡」相比上下結構的「裏」少了些許包裹感；同理，上下結構的「峯」字更有髙耸感。&lt;/li&gt;
-&lt;li&gt;「牀」「泪」相比「床」「淚」更象形。&lt;/li&gt;
-&lt;li&gt;「囯」相比〔国、國〕對稱卻又不失其會意的基礎〔其實只是処女座討厭「玉」那一點罷了〕。&lt;/li&gt;
-&lt;li&gt;還有像：龟〔龜〕、衆〔众〕這様既簡單又象形/會意的簡化字當然要支持。&lt;/li&gt;
-&lt;li&gt;形碼輸入還有一箇好処便是：可以簡化你自己想簡化的部分；譬如，我若覺得「繼」的右邊太繁瑣，但又想保留左邊「糹」的三點，便可輸出「継」；同理還可得到：覚〔覺〕、録〔錄〕、説〔說〕、謡〔謠〕等看上去奇奇怪怪的漢字。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;諸如此類奇怪而有趣的漢字還有很多，我只是舉幾箇例子。當然，我箇人反對大陸規範字這套字形，同様是很多人都不喜歡的幾點原因：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;同音合並：把漢字精確的表意功能倒回了「通假字」的時代；&lt;/li&gt;
-&lt;li&gt;符號替代：又〔鷄、難、鄧、觀、聂……〕相比未簡化的〔溪、登、灌、矗……〕，以及諸如「样〔樣〕、虾〔蝦〕、吓〔嚇〕」這様的聲符替代相比未簡化的〔漾、假、赫〕，讓漢字变得失去了原先的系統性；&lt;/li&gt;
-&lt;li&gt;草書楷化：门、东、乐、头〔頭〕、实〔實〕、买〔買〕等等，亂七八糟，印刷體一箇比一箇醜。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;除此之外還有獵奇的標點。直角引號老生常談，不必多言。另外比如我喜歡用法文裏的引號 « » 來作爲中文的書名號，用龟殼括號〔 〕取代圓括號（ ）作爲中文的括號。不過全角中文標點最大的問題便是當兩箇符號連在一起時，間隙大得太不美觀了。如：「《紅樓夢》、《西遊記》」中間不算頓號，中間感覺像空了四箇字符；若全換作半角符號後空格，又會造成漢字與標點水平中軸綫不一致的問題，如: “«紅樓夢», «西遊記»”. 至今沒有一箇令人滿意的排法。&lt;/p&gt;
-&lt;p&gt;p.s. 英文半角與中文全角標點水平中軸綫的單獨比較 [ :：], [ «《 , » 》]&lt;/p&gt;
-&lt;p&gt;〔中文顯得略髙〕&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;我是個討厭規則、蔑視所謂規範的人。我堅信我們的歷史和文化是每一個公民，在受到相應的敎育之後，由自己的意志和審美做出的獨立的選擇所決定的；而非任由我們的政府和社會的主流大众，決定我們說什麼様的語言才是「文明的」，寫什麼様的漢字才是「規範」的，看什麼様的電影才是「不低俗」的，聽什麼様的音樂才是「正能量」的，造什麼様的建築才是「不奇怪」的。&lt;/p&gt;
-&lt;p&gt;在說了這麽多無関緊要的費話之後，&lt;/p&gt;
-&lt;p&gt;歡迎大家光臨我這箇奇奇怪怪、自由散漫、不拘一格的博客。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;大概在兩年前，我購買了 dyingsunbeam.com 域名，在 Tumblr 上搭了自己&lt;a href=&quot;http://dyingsunbeam.tumblr.com&quot;&gt;第一箇博客&lt;/a&gt;，並發佈了第一篇文章 &lt;a href=&quot;http://dyingsunbeam.com/2014/10/16/tumblr-on/&quot;&gt;&lt;em&gt;Tumblr On&lt;/em&gt;&lt;/a&gt;。在這篇文章裏，我簡單地談了下這箇名字：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;中學時，我 QQ 空間的主頁叫作 &lt;em&gt;The Setting Sun Below The Forest&lt;/em&gt;，即爲「夢」的簡體字「梦」的象形意之英譯。我至今都很鍾意這箇名字，不過作爲私人博客名顯然太長了，只好再想了一箇。&lt;em&gt;Dying Sunbeam&lt;/em&gt; 這箇名字雖然略顯消極，但若是一個人真正站在樹林中看夕陽下落，它便很生動地描寫了那些光束逐漸消亡的場景。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
-    
-    
-      <category term="漢字" scheme="http://dyingsunbeam.com/tags/%E6%BC%A2%E5%AD%97/"/>
-    
-      <category term="Blog" scheme="http://dyingsunbeam.com/tags/Blog/"/>
-    
-      <category term="Hexo" scheme="http://dyingsunbeam.com/tags/Hexo/"/>
-    
-      <category term="倉頡" scheme="http://dyingsunbeam.com/tags/%E5%80%89%E9%A0%A1/"/>
-    
-  </entry>
   
   <entry>
     <title>Be Proud, &quot;Chinks&quot;</title>
@@ -882,6 +816,34 @@
     <summary type="html">
     
       &lt;p&gt;爲什麼我突然想碼這個題目？是想爲自己的頹廢生活找些冠冕堂皇的藉口，還是去告訴所有人我就是這樣一個消極的混混？其實，是因爲前段時間在社交平台上又看到有人在轉根據知乎上&lt;a href=&quot;http://www.zhihu.com/question/22913650&quot;&gt;「人這一生爲什麼要努力」&lt;/a&gt;問題下&lt;a href=&quot;http://zhi.hu/0a12&quot;&gt;排名第一的答案&lt;/a&gt;所改編的那幅漫畫。我回過頭來看了那答案下的評論，幾乎沒有什麼異議。其實我並沒有怎麼憤怒，畢竟正能量的答案更容易安撫人們躁動的內心；我所不滿的是，大多數受過教育的人的判斷力都近乎趨於一種同質。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tumblr On</title>
+    <link href="http://dyingsunbeam.com/2014/10/16/tumblr-on/"/>
+    <id>http://dyingsunbeam.com/2014/10/16/tumblr-on/</id>
+    <published>2014-10-16T01:00:00.000Z</published>
+    <updated>2016-08-05T10:06:31.000Z</updated>
+    
+    <content type="html">&lt;p&gt;断断續續寫過不少文章，並零零散散發到各大主流社交平台：有的文章幾年後覺得過於天真純情；有的文章行文冗長混亂，觀點俗套；有的感覺過於私密，不再適合過於暴露的大眾化社交平台。最後，很多文章不是被自己殘忍刪掉，就是被隱藏了起來。從「QQ 空間」到「微博」，文字縂是在搬家，沒有一個既定的歸宿。而 Tumblr 對於如今中囯混亂浮躁的社交网絡來看，確實算是箇相對簡單、安靜，同時又不受「牆」限制的地方。所以，想把這兒作爲一個可以相對長久存放自己文字和圖片的地方。&lt;/p&gt;
+&lt;p&gt;中學時，我 QQ 空間的主頁叫作 &lt;em&gt;The Setting Sun Below The Forest&lt;/em&gt;，即爲「夢」的簡體字「梦」的象形意之英譯。我至今都很鍾意這個名字，不過作爲個私人博客名顯然太長了，只好再想了一箇。&lt;em&gt;Dying Sunbeam&lt;/em&gt; 這箇名字雖然略顯消極，但若是一個人真正站在樹林中看夕陽下落，它便很生動地描寫了那些光束逐漸消亡的場景。&lt;/p&gt;
+&lt;p&gt;欣賞日落實爲一件美而浪漫的事情，小王子恨不得在那星球一天看上幾十次。「消逝的光束」聽起來像是無法挽回的毀滅，而這&lt;strong&gt;毀滅&lt;/strong&gt;實際是那樣地燦爛，正是這「毀滅」帶來了翌日的重生。跳出人類的視野來看，即便太陽是在持續地「毀滅」，但一天二十四小時的能量消耗相對於它自身質量卻是微乎其微；所以，作爲人類，便會很自然地把地球自轉引起的晝夜更替，貿然當做是太陽的一次消逝或毀滅。&lt;/p&gt;
+&lt;p&gt;這便讓我想到人與人的視角與觀念的差異之巨大，這種差異使人感到可怕的同時，也給我們帶來如此斑斕的精神世界〔廣義上的〕。這也是爲什麼我始終嘗試感受他人的感受並理解他人，發現這個世界的不同，感悟其相似與相同。不理解和無知會帶來先入爲主的傲慢與優越感，傲慢和優越感很容易產生不尊重，進而引發爭執、謾罵、甚至暴力；諷刺的是，那種爭執很可能是根本雙方都不在一個層面上的爭執，除非其中一方意識到這種荒誕與徒勞，否則根本不會有和平且合理的結果。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我享受寫作的過程並欣賞自己完成作品的結果，可矛盾的是，我又排斥寫作本身，正如我排斥早睡早起、鍛鍊身體等規律作息的生活一樣。說白了，都是克服不了內心深処的惰性。「天才是百分之一的靈感，加百分之九十九的汗水」「成功是一分天賦與九十九分努力」此乃老生常談。我縂覺得&lt;strong&gt;努力&lt;/strong&gt;也是天賦的一部份。&lt;strong&gt;努力&lt;/strong&gt;本身也有很多範疇，比如，努力的對象是自己感興趣的還是反感的，反感的對象是可以接受的還是無法接受的；在什麼情況下努力，努力的程度何以定義等等。況且每個人對成功的理解不同，這種警句其實沒有多大的參攷價值。相比之下，不如「把想做的做到最好」「Just do it」這種句子來得實在。&lt;/p&gt;
+&lt;p&gt;排開惰性，我對寫作與閱讀的態度也不盡相同。我承認二者都能給我帶來種種縂結性的思考與精神上的感悟，但我並不享受閱讀的過程，閱讀本身也不會帶給我任何能與寫作相比擬的快感與成就感。私以爲，能被稱作爲&lt;strong&gt;知識&lt;/strong&gt;的東西，都是縂結性的觀點和事實；否則，都只能算作&lt;strong&gt;感受&lt;/strong&gt;。同時，&lt;strong&gt;知識&lt;/strong&gt;是可以从&lt;strong&gt;感受&lt;/strong&gt;中提煉出來的，其方法不外乎讀書與寫作；而後者能帶來的是更個體化的縂結，更能代表自己在當時環境與成長時期的思想反映。我們需要信息獲取，並對其思攷批判；我們也同樣需要一種方式過濾並沉澱自己的雜思。這便是寫作對於我的意義。&lt;/p&gt;
+&lt;p&gt;作爲一箇私人博客，我會把自己滿意的個人作品有選擇地發佈上來，題材當然也不會侷限：手機拍的照片、隨心所欲的文字、破吉他錄的採樣可能都會有，算作業餘經營，質量沒有保障也懇請大家見諒。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;断断續續寫過不少文章，並零零散散發到各大主流社交平台：有的文章幾年後覺得過於天真純情；有的文章行文冗長混亂，觀點俗套；有的感覺過於私密，不再適合過於暴露的大眾化社交平台。最後，很多文章不是被自己殘忍刪掉，就是被隱藏了起來。從「QQ 空間」到「微博」，文字縂是在搬家，沒有一個
     
     </summary>
     
