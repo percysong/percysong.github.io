@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dyingsunbeam.com/"/>
-  <updated>2016-08-06T14:33:34.000Z</updated>
+  <updated>2016-08-07T09:27:02.000Z</updated>
   <id>http://dyingsunbeam.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://dyingsunbeam.com/2016/08/06/hexon/"/>
     <id>http://dyingsunbeam.com/2016/08/06/hexon/</id>
     <published>2016-08-05T16:00:00.000Z</published>
-    <updated>2016-08-06T14:33:34.000Z</updated>
+    <updated>2016-08-07T09:27:02.000Z</updated>
     
     <content type="html">&lt;p&gt;大概在兩年前，我購買了 dyingsunbeam.com 域名，在 Tumblr 上搭了自己&lt;a href=&quot;http://dyingsunbeam.tumblr.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;第一箇博客&lt;/a&gt;，並發佈了第一篇文章 &lt;a href=&quot;http://dyingsunbeam.com/2014/10/16/tumblr-on/&quot;&gt;&lt;em&gt;Tumblr On&lt;/em&gt;&lt;/a&gt;。在這篇文章裏，我簡單地談了下這箇名字：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -32,31 +32,38 @@
 &lt;p&gt;我並非在反抗社交或是网絡本身，相反，若要在這箇時代中脫離二者中任意一箇，我們都可能無法継續正常的生活。我所反抗的是一種慣性，一種依賴，抑或一種對現實生活的逃避。我想試圖反抗「下拉刷新」不出任何狀態的焦慮，反抗隨時隨地都想去分享生活瑣事的慾望，反抗機械地點讚與評論時的無所用心。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;當然，我仍需要通過其它社交平臺讓他人來光顧我的主頁。但至少，這様或許能讓人們瞭解到，在這箇時代，除了微博，還有像我一様的痴人在寫博客；除了朋友圈，還有十年前那種「點擊藍色下劃綫的文字便可跳轉」的互聫网；除了打開備忘錄截圖，還可以把自己的文字裝扮得好看一點。&lt;/p&gt;
-&lt;h2 id=&quot;Hexo-是什麼&quot;&gt;&lt;a href=&quot;#Hexo-是什麼&quot; class=&quot;headerlink&quot; title=&quot;Hexo 是什麼&quot;&gt;&lt;/a&gt;Hexo 是什麼&lt;/h2&gt;&lt;p&gt;兩年間也發生了很多事，包括 Tumblr 這箇僅剩的主流社交平臺最終還是被政府幹掉，倒在了墻外。所以即便是獨立的域名，還是會因爲 Tumblr 服務器的緣故使其在囯內無法正常訪問。無奈之下，只好自己動手，比較了幾箇博客框架，最後選擇了 &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;除了 &lt;a href=&quot;http://farbox.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Farbox&lt;/a&gt; 是用 dropbox 服務之外，大多數主流的框架都是基於 &lt;a href=&quot;https://pages.github.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github Pages&lt;/a&gt; 的；所以相比之下，設置起來要麻煩一些。Farbox 借用 Dropbox 發佈文章尤其方便，設置也十分小白；放棄它的原因主要是覺得主題太少了，且需要一定的費用。Hexo 完全免費，且有很多不錯的主題；我現在所使用的便是 Hexo 上最流行的一款主題——&lt;a href=&quot;http://theme-next.iissnan.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Next&lt;/a&gt;。它不僅設計精簡，甚至還有專門的&lt;a href=&quot;http://theme-next.iissnan.com/getting-started.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;配置頁面&lt;/a&gt;，實在令人感動。&lt;/p&gt;
+&lt;h2 id=&quot;Hexo-是什麼&quot;&gt;&lt;a href=&quot;#Hexo-是什麼&quot; class=&quot;headerlink&quot; title=&quot;Hexo 是什麼&quot;&gt;&lt;/a&gt;Hexo 是什麼&lt;/h2&gt;&lt;p&gt;兩年間也發生了很多事，包括 Tumblr 這箇僅剩的主流社交平臺最終還是被政府幹掉，倒在了墻外。所以即便是獨立的域名，還是會因爲 Tumblr 服務器的緣故使其在囯內無法正常訪問。無奈之下，只好自己動手，在比較了幾箇博客框架之後，選擇了 &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;除了 &lt;a href=&quot;http://farbox.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Farbox&lt;/a&gt; 用的是 dropbox 服務之外，大多數主流的框架都是基於 &lt;a href=&quot;https://pages.github.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github Pages&lt;/a&gt;；所以相比之下，Hexo 設置起來要麻煩一些。Farbox 借用 Dropbox 發佈文章尤其方便，設置也十分小白；放棄它的原因主要是覺得主題太少了，且需要一定的費用。Hexo 完全免費，有很多不錯的主題；我現在所使用的便是 Hexo 上最流行的一款主題——&lt;a href=&quot;http://theme-next.iissnan.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Next&lt;/a&gt;。它不僅設計精簡，甚至還有專門的&lt;a href=&quot;http://theme-next.iissnan.com/getting-started.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;配置頁面&lt;/a&gt;，實在令人感動。&lt;/p&gt;
 &lt;h2 id=&quot;選擇我們自己的漢字&quot;&gt;&lt;a href=&quot;#選擇我們自己的漢字&quot; class=&quot;headerlink&quot; title=&quot;選擇我們自己的漢字&quot;&gt;&lt;/a&gt;選擇我們自己的漢字&lt;/h2&gt;&lt;p&gt;我大學本科的畢業論文本來是想寫関於漢字簡化的方向，但在看了許多資料文獻之後，覺得該寫的都被寫爛了，無从下筆，棄之。不過正因爲那些信息，加深了我對漢字的瞭解和興趣。現在再回看自己大三時寫的那篇関於繁體字的文章，顯得幼稚至極。因而，現在的我對文字的態度也開放許多，理性了許多；逐漸認識到了以「就字論字」而不是「非黑即白的簡繁派」的角度來看待漢字的重要性。&lt;/p&gt;
 &lt;p&gt;自从可以相對熟練地用&lt;a href=&quot;https://zh.wikipedia.org/zh-hant/倉頡輸入法&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;倉頡輸入法&lt;/a&gt;來打字之後，我便解放了自己對漢字的使用。因爲相較於音碼，形碼可以讓我自由地選擇每一箇字形的使用，而不再遵循任何唯一一箇囯家或地區的漢字使用標準。因此，在這裏，你會看到繁體字、簡化字以及小部分的日本字形。它們看起來很熟悉，但細觀卻不盡相同。以下是一些字型的比較：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;処〔处〕、攷〔考〕、从「從」等可採用其本字。&lt;/li&gt;
+&lt;li&gt;処〔處〕、攷〔考〕、从「從」等可採用其本字；箇、個〔个〕分對象使用。&lt;/li&gt;
 &lt;li&gt;爲〔為〕、裏〔裡〕採用大陸傳統標準：「為」是草化，「裡」相比上下結構的「裏」少了些許包裹感；同理，上下結構的「峯」字更有髙耸感。&lt;/li&gt;
-&lt;li&gt;「牀」「泪」相比「床」「淚」更象形。&lt;/li&gt;
+&lt;li&gt;「牀」「泪」相比「床」「淚」更形象。&lt;/li&gt;
 &lt;li&gt;「囯」相比〔国、國〕對稱卻又不失其會意的基礎〔其實只是処女座討厭「玉」那一點罷了〕。&lt;/li&gt;
-&lt;li&gt;還有像：龟〔龜〕、衆〔众〕這様既簡單又象形/會意的簡化字當然要支持。&lt;/li&gt;
-&lt;li&gt;形碼輸入還有一箇好処便是：可以簡化你自己想簡化的部分；譬如，我若覺得「繼」的右邊太繁瑣，但又想保留左邊「糹」的三點，便可輸出「継」；同理還可得到：覚〔覺〕、録〔錄〕、説〔說〕、謡〔謠〕等看上去奇奇怪怪的漢字。&lt;/li&gt;
+&lt;li&gt;還有像「龟〔龜〕、衆〔众〕」這様既簡單又象形/會意的簡化字當然要支持。&lt;/li&gt;
+&lt;li&gt;形碼輸入還有一箇好処，便是可以簡化你自己想簡化的部分。譬如，我若覺得「繼」的右邊太繁瑣，但又想保留左邊「糹」的三點，便可輸出「継」；同理還可得到：覚〔覺〕、録〔錄〕、説〔說〕、謡〔謠〕等看上去有點奇怪的漢字。&lt;/li&gt;
+&lt;li&gt;好玩的日本字型如：曽〔曾〕、悪〔惡〕、歩〔步〕等。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;諸如此類奇怪而有趣的漢字還有很多，我只是舉幾箇例子。當然，我箇人反對大陸規範字這套字形，同様是很多人都不喜歡的幾點原因：&lt;/p&gt;
+&lt;p&gt;諸如此類奇怪而有趣的漢字還有很多，我只是舉幾箇例子。當然，我個人反對大陸規範字這套字形，同様是老生常談的幾點原因：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;同音合並：把漢字精確的表意功能倒回了「通假字」的時代；&lt;/li&gt;
+&lt;li&gt;同音合並：把漢字精確的表意功能倒回了通假字的時代；&lt;/li&gt;
 &lt;li&gt;符號替代：又〔鷄、難、鄧、觀、聂……〕相比未簡化的〔溪、登、灌、矗……〕，以及諸如「样〔樣〕、虾〔蝦〕、吓〔嚇〕」這様的聲符替代相比未簡化的〔漾、假、赫〕，讓漢字变得失去了原先的系統性；&lt;/li&gt;
 &lt;li&gt;草書楷化：门、东、乐，头〔頭〕、实〔實〕、买〔買〕等等，亂七八糟，印刷體一箇比一箇醜。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;除此之外還有獵奇的標點。直角引號老生常談，不必多言。另外比如我喜歡用法文裏的引號 « » 來作爲中文的書名號，用龟殼括號〔 〕取代圓括號（ ）作爲中文的括號。不過全角中文標點最大的問題便是當兩箇符號連在一起時，間隙大得太不美觀了。如：「《紅樓夢》、《西遊記》」中間不算頓號，中間感覺像空了四箇字符；若全換作半角符號後空格，又會造成漢字與標點水平中軸綫不一致的問題，如: “«紅樓夢», «西遊記»”. 至今沒有一箇令人滿意的排法。&lt;/p&gt;
-&lt;p&gt;p.s. 英文半角與中文全角標點水平中軸綫的單獨比較 [ :：], [ «《 , » 》]&lt;/p&gt;
+&lt;p&gt;除此之外還有標點的選擇。&lt;a href=&quot;https://www.zhihu.com/topic/19691803/top-answers&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;直角引號的討論&lt;/a&gt;都說爛了，在此不必多言。另外比如我喜歡用法文裏的引號 « » 來作爲中文的書名號，用龟殼括號&lt;a href=&quot;https://en.wiktionary.org/wiki/%E3%80%94#Japanese&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;〔 〕&lt;/a&gt;取代圓括號（ ）作爲中文的括號〔主要原因是我比較讚同說，方块字並不適合用如弯引號和圓括號這様的曲綫來搭配〕。&lt;/p&gt;
+&lt;p&gt;全角中文標點最大的問題便是，當兩箇符號連在一起時，間隙大得太不美觀了。如：「《紅樓夢》、《西遊記》」。頓號那裏，中間感覺像空了四箇字符；冒號和引號也像空了兩箇字符。倘若全換作半角符號後空格，又會造成漢字與標點水平中軸綫不一致的問題，如: “«紅樓夢», «西遊記»”. 至今還沒有一箇令人滿意的排法。&lt;/p&gt;
+&lt;p&gt;P.S. 英文半角與中文全角標點水平中軸綫的單獨比較 [ :：], [ «《 , » 》]&lt;/p&gt;
 &lt;p&gt;〔中文顯得略髙〕&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;我是個討厭規則、蔑視所謂規範的人。我堅信我們的歷史和文化是每一個公民，在受到相應的敎育之後，由自己的意志和審美做出的獨立的選擇所決定的；而非任由我們的政府和社會的主流大众，決定我們說什麼様的語言才是「文明的」，寫什麼様的漢字才是「規範」的，看什麼様的電影才是「不低俗」的，聽什麼様的音樂才是「正能量」的，造什麼様的建築才是「不奇怪」的。&lt;/p&gt;
+&lt;p&gt;我是個討厭規則、蔑視所謂規範的人。我堅信我們的歷史和文化是每一個公民，在受到相應的敎育之後，由自己的意志和審美做出的獨立的選擇所決定的，而非我們的政府和社會的主流大众。&lt;/p&gt;
+&lt;p&gt;我們無條件地崇仰政府，信奉大众審美，任由他們來決定我們說什麼様的語言才是「文明的」，寫什麼様的漢字才是「規範」的，看什麼様的電影才是「不低俗」的，聽什麼様的音樂才是「主旋律」的，造什麼様的建築才是「不奇怪」的。&lt;/p&gt;
+&lt;p&gt;權力，是每個公民做出一定犧牲後才爭取得來的；歷史、芸術、語言、文化、建築……，同様是每個在乎它們的人盡心竭力保留下來的。我不信所謂的「大勢所趨」，不甘心我們所生活的世界被方便廉價卻醜陋的事物所統治，亦不認爲我們的堅持是徒勞而愚蠢，終會被時代淘汰的。&lt;/p&gt;
+&lt;p&gt;這就是爲什麼我們要反抗微信，抵制囯産安卓機，鄙視流行歌曲，使用跟普通話同様文明的方言，跟簡體字同様規範的繁體字和異軆字。&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;在說了這麽多無関緊要的話之後，&lt;/p&gt;
 &lt;p&gt;歡迎大家光臨我這箇奇奇怪怪、自由散漫、不拘一格的博客。&lt;/p&gt;
+&lt;p&gt;——一個做着許多無意義的事的無意義的人&lt;/p&gt;
 </content>
     
     <summary type="html">
@@ -71,9 +78,9 @@
       <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="漢字" scheme="http://dyingsunbeam.com/tags/%E6%BC%A2%E5%AD%97/"/>
-    
       <category term="Blog" scheme="http://dyingsunbeam.com/tags/Blog/"/>
+    
+      <category term="漢字" scheme="http://dyingsunbeam.com/tags/%E6%BC%A2%E5%AD%97/"/>
     
       <category term="Hexo" scheme="http://dyingsunbeam.com/tags/Hexo/"/>
     
