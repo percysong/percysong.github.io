@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dyingsunbeam.com/"/>
-  <updated>2016-08-07T09:27:02.000Z</updated>
+  <updated>2016-08-07T09:29:14.000Z</updated>
   <id>http://dyingsunbeam.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://dyingsunbeam.com/2016/08/06/hexon/"/>
     <id>http://dyingsunbeam.com/2016/08/06/hexon/</id>
     <published>2016-08-05T16:00:00.000Z</published>
-    <updated>2016-08-07T09:27:02.000Z</updated>
+    <updated>2016-08-07T09:29:14.000Z</updated>
     
     <content type="html">&lt;p&gt;大概在兩年前，我購買了 dyingsunbeam.com 域名，在 Tumblr 上搭了自己&lt;a href=&quot;http://dyingsunbeam.tumblr.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;第一箇博客&lt;/a&gt;，並發佈了第一篇文章 &lt;a href=&quot;http://dyingsunbeam.com/2014/10/16/tumblr-on/&quot;&gt;&lt;em&gt;Tumblr On&lt;/em&gt;&lt;/a&gt;。在這篇文章裏，我簡單地談了下這箇名字：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -55,8 +55,7 @@
 &lt;p&gt;全角中文標點最大的問題便是，當兩箇符號連在一起時，間隙大得太不美觀了。如：「《紅樓夢》、《西遊記》」。頓號那裏，中間感覺像空了四箇字符；冒號和引號也像空了兩箇字符。倘若全換作半角符號後空格，又會造成漢字與標點水平中軸綫不一致的問題，如: “«紅樓夢», «西遊記»”. 至今還沒有一箇令人滿意的排法。&lt;/p&gt;
 &lt;p&gt;P.S. 英文半角與中文全角標點水平中軸綫的單獨比較 [ :：], [ «《 , » 》]&lt;/p&gt;
 &lt;p&gt;〔中文顯得略髙〕&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;我是個討厭規則、蔑視所謂規範的人。我堅信我們的歷史和文化是每一個公民，在受到相應的敎育之後，由自己的意志和審美做出的獨立的選擇所決定的，而非我們的政府和社會的主流大众。&lt;/p&gt;
+&lt;h2 id=&quot;反抗規則&quot;&gt;&lt;a href=&quot;#反抗規則&quot; class=&quot;headerlink&quot; title=&quot;反抗規則&quot;&gt;&lt;/a&gt;反抗規則&lt;/h2&gt;&lt;p&gt;我是個討厭規則、蔑視所謂規範的人。我堅信我們的歷史和文化是每一個公民，在受到相應的敎育之後，由自己的意志和審美做出的獨立的選擇所決定的，而非我們的政府和社會的主流大众。&lt;/p&gt;
 &lt;p&gt;我們無條件地崇仰政府，信奉大众審美，任由他們來決定我們說什麼様的語言才是「文明的」，寫什麼様的漢字才是「規範」的，看什麼様的電影才是「不低俗」的，聽什麼様的音樂才是「主旋律」的，造什麼様的建築才是「不奇怪」的。&lt;/p&gt;
 &lt;p&gt;權力，是每個公民做出一定犧牲後才爭取得來的；歷史、芸術、語言、文化、建築……，同様是每個在乎它們的人盡心竭力保留下來的。我不信所謂的「大勢所趨」，不甘心我們所生活的世界被方便廉價卻醜陋的事物所統治，亦不認爲我們的堅持是徒勞而愚蠢，終會被時代淘汰的。&lt;/p&gt;
 &lt;p&gt;這就是爲什麼我們要反抗微信，抵制囯産安卓機，鄙視流行歌曲，使用跟普通話同様文明的方言，跟簡體字同様規範的繁體字和異軆字。&lt;/p&gt;
@@ -78,9 +77,9 @@
       <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="Blog" scheme="http://dyingsunbeam.com/tags/Blog/"/>
-    
       <category term="漢字" scheme="http://dyingsunbeam.com/tags/%E6%BC%A2%E5%AD%97/"/>
+    
+      <category term="Blog" scheme="http://dyingsunbeam.com/tags/Blog/"/>
     
       <category term="Hexo" scheme="http://dyingsunbeam.com/tags/Hexo/"/>
     
