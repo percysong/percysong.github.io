@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dyingsunbeam.com/"/>
-  <updated>2016-10-16T02:58:02.000Z</updated>
+  <updated>2016-10-25T04:27:00.000Z</updated>
   <id>http://dyingsunbeam.com/</id>
   
   <author>
@@ -14,6 +14,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在我朝使用現代漢語的尷尬症</title>
+    <link href="http://dyingsunbeam.com/2016/10/25/modern-chinese-applications/"/>
+    <id>http://dyingsunbeam.com/2016/10/25/modern-chinese-applications/</id>
+    <published>2016-10-25T01:00:00.000Z</published>
+    <updated>2016-10-25T04:27:00.000Z</updated>
+    
+    <content type="html">&lt;p&gt;中囯人實在含蓄。&lt;/p&gt;
+&lt;p&gt;初次見面不主動問好，也不詢問對方姓名或称呼。可真正聊起來卻好像同你很熟的様子。或是在称呼你時，很自然地就把你的姓氏給省略了。&lt;br&gt;真是奇怪。&lt;/p&gt;
+&lt;p&gt;我不止一次詢問對方怎麼称呼卻被自動忽略，好像「詢問姓名」是一件很不禮貌的事一様。&lt;br&gt;真是尷尬。&lt;/p&gt;
+&lt;p&gt;好像除了「喫了嗎」便找不到任何問候語了，這時候真的特別想說一句「how are you」來緩解尷尬。在囯外，當地華文老師同我說「早」，一開始我竟不太習慣，好像在中囯呆了廿幾年都沒有這様「被問好」了；當地路人對我道「你好」，亦會感到尤其地不適應。&lt;/p&gt;
+&lt;p&gt;再回想一下在囯內使用「你好/您好」的場景，發現人們竟連初次見都不會去主動使用了。它好似漸漸離我們遠去，更頻繁地，像是変成了服務行業人員与頋客之間的一種「行話」。&lt;/p&gt;
+&lt;p&gt;電話裏：「喂，你好/您好。」&lt;br&gt;旺旺上：「您好，請問 XXX 有貨嗎？」&lt;br&gt;馬路上或商場裏：「您好，請問附近哪裏有衛生間？」&lt;br&gt;餐廳或商店裏：「你好，麻煩拿包餐巾紙。」&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我們爲什麼要使用最基本的問候語？又是什麼讓我們遺棄了它們？&lt;/p&gt;
+&lt;p&gt;爲何在上飛機聴到空姐向我們道出的「晚上好」及「先生/女土」這様的稱謂時會感到不自在，會深刻地體會到這様的「語用」離我們如此遙遠？&lt;/p&gt;
+&lt;p&gt;因爲我們已經不再使用最基本的現代漢語問候語和稱謂了。&lt;br&gt;「帥哥、美女、嗨、哈囉」沒有任何問題，問題是&lt;strong&gt;「爲什麼我們在使用或聴到自己民族最基本的問候語時，會変得尷尬？」&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://obkshes42.bkt.clouddn.com/jingan-hushi.jpg&quot; alt=&quot;胡適與靜安通信&quot;&gt;&lt;/p&gt;
+&lt;p&gt;再看着胡適先生同王國維先生的書信往來，身爲後人，怎會不覚感慨萬端？&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;任何一箇沒有歷史的囯家都不太會去在意自己語言的使用。一箇曾被法蘭西共和囯殖民的小島上的學生和老師，現在也來不來就 Tu, tu, tu… 〔我跟你很熟嗎？〕&lt;/p&gt;
+&lt;p&gt;〔註：「你 tu」狹意上与「您 vous」相對，但在禮儀上的問題則比現代漢語中的「你」与「您」嚴重多了〕&lt;/p&gt;
+&lt;p&gt;我們，真的有歷史嗎？&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中囯人實在含蓄。&lt;/p&gt;
+&lt;p&gt;初次見面不主動問好，也不詢問對方姓名或称呼。可真正聊起來卻好像同你很熟的様子。或是在称呼你時，很自然地就把你的姓氏給省略了。&lt;br&gt;真是奇怪。&lt;/p&gt;
+&lt;p&gt;我不止一次詢問對方怎麼称呼卻被自動忽略，好像「詢問姓名」是一件很不禮貌的事一様。&lt;b
+    
+    </summary>
+    
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
+    
+    
+      <category term="漢語" scheme="http://dyingsunbeam.com/tags/%E6%BC%A2%E8%AA%9E/"/>
+    
+      <category term="language" scheme="http://dyingsunbeam.com/tags/language/"/>
+    
+  </entry>
   
   <entry>
     <title>冷笑話一則：Word Mom</title>
@@ -38,9 +80,9 @@
       <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
     
     
-      <category term="buzzword" scheme="http://dyingsunbeam.com/tags/buzzword/"/>
-    
       <category term="language" scheme="http://dyingsunbeam.com/tags/language/"/>
+    
+      <category term="buzzword" scheme="http://dyingsunbeam.com/tags/buzzword/"/>
     
   </entry>
   
@@ -762,62 +804,6 @@
     
     
       <category term="music" scheme="http://dyingsunbeam.com/tags/music/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>「自由」總歸是 Nice Things 的前提</title>
-    <link href="http://dyingsunbeam.com/2015/02/09/travel-notes-in-Thiland/"/>
-    <id>http://dyingsunbeam.com/2015/02/09/travel-notes-in-Thiland/</id>
-    <published>2015-02-09T11:18:00.000Z</published>
-    <updated>2016-07-09T18:40:54.000Z</updated>
-    
-    <content type="html">&lt;p&gt;意料之外的是，泰國與我想象中的完全不一樣。&lt;/p&gt;
-&lt;p&gt;「傳說中的普吉島、人妖、馬殺雞、金光閃耀的寺廟……」很容易聯想到「遊客聚集地、騙取眼球的奇特表演、體貼的服務與土豪的裝裱」，由此不難讓人產生一種「媚俗」的刻板印象。然而，這次畢業旅行的遊歷，從某種程度上講，顛覆了我對於自己一直習慣的這片土地的認知。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;人始終是交通工具的主體&quot;&gt;&lt;a href=&quot;#人始終是交通工具的主體&quot; class=&quot;headerlink&quot; title=&quot;人始終是交通工具的主體&quot;&gt;&lt;/a&gt;人始終是交通工具的主體&lt;/h2&gt;&lt;p&gt;「車讓人」在異國並非新奇，然而對於第一次有幸出國享受這一「待遇」的我來說，這種感受仍是無法言表的：好像我不再是「弱勢群體」（畢竟「車」在普世價值裏是身份、地位與等級的象徵，因此在特定的場景和語境下，開車的人便是處於更顯赫的位置上）的一部分了，好像自己重新擁有了 individuality &amp;amp; dignity.&lt;/p&gt;
-&lt;p&gt;此外，單單通過對這裏人們的行車方式的觀察便可感受得到，他們的生活態度與國人存在有多大的差異。有條不紊且不急躁的行車習慣不僅讓乘客安心，更讓每一個駕駛員甚至路人也頗有秩序感和安全感。這十天我們幾乎天天打車，卻很少感到「自身慣性會帶來什麼危險的趨勢」。想到前年在蘭州——我在國內經歷過的計程車行駛最爲瘋狂的城市——的乘車體驗，不禁膽寒：每次啓動幾乎都把油門踩到底，每次停下來都是急剎車，恨不得把乘客甩出去。相比在曼谷的一天晚上，我們打車回住處去，其中必經一條跟京城高峰期一樣堵的主幹道；先遇到一個不打錶的，價錢沒談攏只好放棄；後面攔到一輛 TAXI-METER, 搭我們的是一位上了些年紀的師傅，沒有拒載，開車不緊不慢，姿態優雅；對塞車也毫無怨言，時不時在轉彎處還哼着小曲，享受著駕駛給他帶來的樂趣。&lt;/p&gt;
-&lt;p&gt;這顯然說明一個問題：國內多數地區的駕駛員開車都「很拼命」，其中一部分是在賣命掙錢，另一部分更像是趕着投胎。我回到家之後遇到過最令人費解的行爲便是，一輛下班回來，在小區內行駛的私人轎車，不但沒有減速的趨勢，反而不停地按喇叭驅趕路人。駕駛員整天滿腹的怨氣和牢騷，表面上看是不會享受駕駛的樂趣，實際上是根本不懂得享受生活，並且缺乏對他人基本的尊重。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;國人顯然都是真朋克，隨處可見一顆顆躁動不安的內心。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;Uber-amp-Airbnb&quot;&gt;&lt;a href=&quot;#Uber-amp-Airbnb&quot; class=&quot;headerlink&quot; title=&quot;Uber &amp;amp; Airbnb&quot;&gt;&lt;/a&gt;Uber &amp;amp; Airbnb&lt;/h2&gt;&lt;p&gt;無論在何處打車，不打錶欺負外地人的情況總是讓人反感；就算有時明知道被坑，坐上了車也嫌麻煩不想換車。&lt;a href=&quot;https://www.uber.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Uber&lt;/a&gt; 的出現在某種程度上創造了解決這種不公平問題的可能，這個&lt;a href=&quot;http://www.bloomberg.com/news/articles/2014-12-04/uber-valued-at-40-billion-with-1-2-billion-equity-fundraising&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;估值$400億&lt;/a&gt;的公司必將成爲未來自由市場經濟的另一個典型。車主們可以根據客戶的目的地以及所經線路的交通狀況預先給出標價，減少了用戶的抉擇成本。天氣突變，車輛供不應求——可以加價；交通擁堵——可以加價。出租車脫離了政府的管制，也就意味着不再被定死的價格所限制了。車主變得自由，可以選擇在高峰期忍受堵車，卻賺得更多的錢；用戶也擁有了選擇的自由，不再有打不到車的憂患，也少了無可奈何被黑車坑的鬱悶。&lt;/p&gt;
-&lt;p&gt;縱然這種市場經濟的「自由」會滋生出諸如價格不穩定，服務質量參差不齊，車子不夠規範等一系列問題。然而這些問題都是可以通過公司的成熟壯大帶來的規模化、規範化效應來逐漸完善的，但那套陳舊的「計程車的計劃經濟」所導致的問題是無法從根本上解決的。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;人始終是交通工具的主體，不可能永遠是循規蹈矩、一成不變的。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;雖然沒能有幸體驗一次 Uber 的服務，但正好因為這次旅行人多，大家便在 &lt;a href=&quot;https://www.airbnb.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Airbnb&lt;/a&gt; 上挑了幾個看上去很棒的 Big House 一起住。不僅房費攤下來跟普通快捷酒店差不多，而且能享受到家一樣的住宿體驗。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.airbnb.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Airbnb&lt;/a&gt; 之於傳統酒店市場，正如 &lt;a href=&quot;https://www.uber.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Uber&lt;/a&gt; 之於傳統計程車市場。Uber 是為有駕駛證且有好車的普通人（當然有培訓過程）在車輛閒置的時候，給他人駕車以提供賺外快的機會；同樣，Airbnb 也是提供了一個平臺，在這裡，有正規房產的戶主可以選擇在房子閒置的時候為需要的人提供住宿，以賺取比普通出租房屋更多的租金。&lt;/p&gt;
-&lt;p&gt;和淘寶交易一樣，在房客住宿後，房主與房客雙方互評。在這種模式下，更多的普通戶主會有機會把閒置的房產以一種更容易的方式利用起來，遊客們會有更多的選擇以及因良性競爭帶來的更好的用戶體驗。&lt;/p&gt;
-&lt;p&gt;我有理由相信這種高自由度、綠色環保的市場模式必將成為未來經濟蓬勃發展的一部分。&lt;/p&gt;
-&lt;h2 id=&quot;規範化的自由&quot;&gt;&lt;a href=&quot;#規範化的自由&quot; class=&quot;headerlink&quot; title=&quot;規範化的自由&quot;&gt;&lt;/a&gt;規範化的自由&lt;/h2&gt;&lt;p&gt;回到交通的問題上。&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E5%98%9F%E5%98%9F%E8%BB%8A&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tuk-tuk 即嘟嘟車&lt;/a&gt;，是一種在東南亞地區很普遍的交通工具（很像國內的電三輪），它甚至可以勝任跑短程的出租車的功用。與中國的三輪最大的區別便是，他們的每輛車都有車牌，並貼有類似於通過授權與檢查的標識。這就意味着他們可以與汽車一樣上公路，且行駛速度並不慢。其實在曼谷主幹道公路上，普通的摩托車就完全可以跑到機動車道上；所以經常可以在紅燈的時候，看見一整排戴着頭盔的機車男，跟港片裏的場景一模一樣。&lt;/p&gt;
-&lt;p&gt;這就非常有趣了，在國內從來都以一種不夠規範的地下身份存在並流行着的交通工具，到了東南亞突然就變得正規合法了。然而，規範合法並不能讓我們完全忽略它遠遠高於四輪汽車的危險性。清邁的那個出租車師傅就說，每天都能看到很多起無法避免的交通事故。沒錯，我們在清邁古城閒逛時便目睹了這樣戲劇的一幕：當時那條小道上車很多，一輛嘟嘟車飛起就把前面別克商務的屁股撞得翹了起來。我們當時想，這下可以看到泰國人撕逼了好開心，連忙追了上去。只見那輛別克減了速頓了一下，好像完全沒有要停車理論的意思。那嘟嘟司機也嚇傻了，跟着屁股後面也頓了一下，而在看到那別克若無其事地準備繼續行駛的樣子後，他連忙低着頭趁亂從它身邊加速超了過去。我們當時直接傻眼了，不禁感嘆泰國人民略帶任性的內斂個性。&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;危險永遠存在。&lt;/em&gt;不過，究竟是光明正大地將大眾訴求規範化後帶來更多的事故&lt;strong&gt;危險&lt;/strong&gt;呢，還是偷偷摸摸地在地下經營摩的、黑的、電三輪導致更多的問題和麻煩「危險」呢？這更像是一場博弈了。&lt;/p&gt;
-&lt;p&gt;在我回家後的一天早上和媽媽搭電三輪趕往縣城，開始走的是小路，然而要到目的地必須經過一條主幹道。而就在快到主幹道的一個岔路上看到了交巡警，三輪只好假裝轉彎，走過兩步又反轉回來。結果看到交警還在那裏，無奈之下只好把我們放在了遠處的路口。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我反感摩托車與四輪汽車並行，同時也討厭這種「不規範的自由」帶來的尷尬。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&quot;藝術文化的自由土壤&quot;&gt;&lt;a href=&quot;#藝術文化的自由土壤&quot; class=&quot;headerlink&quot; title=&quot;藝術文化的自由土壤&quot;&gt;&lt;/a&gt;藝術文化的自由土壤&lt;/h2&gt;&lt;p&gt;這裏，優秀的藝術和文化更像是一種生活必需品一樣存在於人們的生活中。他們的藝術作品雖然不及歐美，但只要有一個自由開放的土壤，藝術文化的生產和消費就會被人尊重，進而這種生產和消費的行為就會成為一種意識和習慣，好東西便可以接連誕生。這也是這片土地最打動我，最值得我留戀的地方。&lt;/p&gt;
-&lt;h3 id=&quot;華欣&quot;&gt;&lt;a href=&quot;#華欣&quot; class=&quot;headerlink&quot; title=&quot;華欣&quot;&gt;&lt;/a&gt;華欣&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E5%8D%8E%E6%AC%A3&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;華欣&lt;/a&gt;是泰國南部一個著名的海岸城市，它更像是一個普普通通，經濟並不發達的小鎮。可是，這個度假勝地卻坐擁希爾頓和宜必思等大酒店，以及多個7-11便利店。乍一看，你會覺得這些都市生活中的常見元素跑到這種小地方來很不協調，但也足以證明這片土地經濟自由的程度（後來因為沒有信用卡沒法在網上買機票，卻可以在7-11搞定）。&lt;/p&gt;
-&lt;p&gt;在華欣我們訂了&lt;a href=&quot;https://zh-t.airbnb.com/rooms/3853921&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;一套很鄉村的小木屋&lt;/a&gt;，出乎意料的是，在房子的後面有一個很大的週末藝術廣場——&lt;a href=&quot;http://www.cicadamarket.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;The Cicada Art Center&lt;/em&gt;&lt;/a&gt;, 而恰好我們住的那兩天是週末。總之，那裡有一個可以兌換餐券去享用各種美食的區域，一個展銷各種藝術商品的區域，還有一個燈光、音箱和舞臺俱全的綠茵草地供樂隊演出，以及一個有數層圓形階梯的廣場供音樂劇表演。&lt;/p&gt;
-&lt;p&gt;我們去參觀的第一天晚上，Live 草坪上坐滿了人。因為華欣的中國人真的少得可憐，我們幾個站著看表演的遊客一下就被那個主唱「發現」了，然後當著全場觀眾的面很熱情地問起我們從哪裡來，玩兒得怎麼樣，然後叫我們坐下欣賞表演；之後還特意為歡迎我們唱了一曲改編的《上海灘》，很是欣慰。這裡的樂隊都很不錯（很多歌曲都有自己的改編，第二天晚上的樂隊還翻了 Daft Punk 的&lt;a href=&quot;http://music.163.com/#/m/song?id=26399296&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Get Lucky&lt;/em&gt;&lt;/a&gt;），音箱效果，燈光效果也絕對屬於&lt;a href=&quot;http://imgur.com/vHi17K5&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;豪華夢幻型&lt;/a&gt;的，最關鍵的是，Live Music 是免費的。旁邊不遠處的音樂舞臺劇好像要收門票，不過面對泰語沒辦法。藝術市場裡有很多平民畫家在展覽出售自己的作品，其中有一對夫妻，男的抱著孩子輕鬆地與朋友聊著天，女的在整理自己畫著各種圖案的布包和枕頭。我買了他畫的兩張明信片，一幅&lt;a href=&quot;http://imgur.com/IBsSRxK&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;海邊的木屋與漁船&lt;/a&gt;，一幅&lt;a href=&quot;http://imgur.com/rOjCr45&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;街道上被抽離的人群&lt;/a&gt;，恬靜、閒逸。這是&lt;a href=&quot;https://www.facebook.com/akaratpainting&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;他的 Facebook 主頁&lt;/a&gt;，大家可以參觀下。&lt;/p&gt;
-&lt;h3 id=&quot;清邁&quot;&gt;&lt;a href=&quot;#清邁&quot; class=&quot;headerlink&quot; title=&quot;清邁&quot;&gt;&lt;/a&gt;清邁&lt;/h3&gt;&lt;p&gt;泰國第二大城市。我們&lt;a href=&quot;https://zh.airbnb.com/rooms/3523214?euid=a61681af-b9f0-2642-acf8-411a2e127060&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;住的別墅區&lt;/a&gt;周圍，看起來是一個十足的農村。而旁邊公路上川流不息的車輛，又在提示著：這是一座大都市。即便是郊區的購物中心，規劃得也是像模像樣的。有泰國最大的連鎖購物中心 &lt;a href=&quot;http://en.wikipedia.org/wiki/Tesco_Lotus&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tesco Lotus&lt;/a&gt;, 有麥當勞得來速，還有很多很有情調的小資餐廳。那兒的夜市，同樣有很多小吃，賣各種玩意兒的。不過，最值得一提的還算廣場中的那個&lt;a href=&quot;http://imgur.com/86gna0i&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;盲人樂隊&lt;/a&gt;，他們的音樂真的很棒，並且整晚其樂融融。我們與他們是藝術家與觀眾，是表演與欣賞的關係，而非乞討與施捨的關係（不過最後我們還是給了錢）。在泰國，像國內一樣的乞討者很難見到。&lt;/p&gt;
-&lt;p&gt;清邁的古城很是古怪，只留有幾道殘破不堪的城牆，牆裡牆外沒有任何特徵上的區別。城裡裡除了幾座寺廟和主街道有遊客之外，其他地方都再平常不過。普通的街道，有意思的商店，閒適的居民，沒有任何刻意商業化的痕跡。那天下午穿過「古城」的途中，剛好路過一所剛剛下課的中學，無意間聽到他們管樂隊在操場練團的聲音。我一下子被吸引了過去，並且瞬間被他們的音樂震驚了。我實在不敢想象一段如此&lt;strong&gt;非主旋律&lt;/strong&gt;且&lt;strong&gt;非主流調式&lt;/strong&gt;的曲子竟被一個學生樂隊演奏出來，這真的太值得欣慰了。激動如我，趕忙拍了段視頻記錄下來——&lt;a href=&quot;http://youtu.be/Xge2wFc97es&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Youtube&lt;/a&gt;/&lt;a href=&quot;http://t.cn/RwwBBiH&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Youku&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;古城裡另一個頗有特色的文化地帶便是那二手書店一條街了，大部分都是歐美人開的。他們收集有各個國家不同時期、不同語言（包括瑞典、芬蘭等小語種）的各類書籍，實在難得。更可貴的是，除了二手書，還有幾大箱的&lt;a href=&quot;http://imgur.com/KrN5ceF&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;老黑膠唱片&lt;/a&gt;，在國內我長這麼大還真沒見過賣&lt;a href=&quot;http://imgur.com/NqwwSHd&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;這古董&lt;/a&gt;的地方。（其實不只是二手書店，很多正規的書店和唱片店都是有當紅藝人正規發售的黑膠在賣的。）&lt;/p&gt;
-&lt;p&gt;不論對於我們——普通的遊客，還是對於他們——當地的居民，我們對彼此來說並無不同，我們都是彼此生活中的一部分，平凡而普通，如此而已。&lt;/p&gt;
-&lt;h3 id=&quot;曼谷&quot;&gt;&lt;a href=&quot;#曼谷&quot; class=&quot;headerlink&quot; title=&quot;曼谷&quot;&gt;&lt;/a&gt;曼谷&lt;/h3&gt;&lt;p&gt;首都最讓人痴迷不已的便是 &lt;a href=&quot;http://zh.wikipedia.org/wiki/%E6%B2%99%E7%82%8E%E4%B8%AD%E5%BF%83&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Siam Center&lt;/a&gt; 旁，那棟集逼牌和未來感於一體的 Siam Paragon Shopping Center（即我在微博上說的那個 &lt;a href=&quot;http://imgur.com/gallery/2kA1TJs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google Maps 上帶有室內地圖&lt;/a&gt;的 Mall）。先說說頂樓上的唱片店，我第一次看到實體的&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E8%8B%B9%E6%9E%9C%E5%94%B1%E7%89%87&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;蘋果唱片公司&lt;/a&gt;發行的 &lt;a href=&quot;https://itunes.apple.com/us/album/the-beatles-box-set/id402060584&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Beatles 全集&lt;/a&gt;，也是第一次看到 &lt;a href=&quot;http://imgur.com/GBg9C5q&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Radiohead 的原盤&lt;/a&gt;；還有其他&lt;a href=&quot;http://imgur.com/Pr3oh6R&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;歐美流行的原盤&lt;/a&gt;。我也買到了最愛的，也是一直想要的 &lt;a href=&quot;http://instagram.com/p/yL2McQAl1Z/?modal=true&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Carpenters 精選集&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;當然，這棟樓裡最讓我流連忘返的，還要算 &lt;a href=&quot;http://en.wikipedia.org/wiki/Books_Kinokuniya&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Kinokuniya&lt;/a&gt; 書店了。這是家日本的連鎖書店，裡面除了少量的泰文圖書，其餘全是英文原本，以及&lt;a href=&quot;http://imgur.com/qlDaIQE&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;少量中文書&lt;/a&gt;（此鏈接有彩蛋）。看著滿牆的&lt;a href=&quot;http://imgur.com/k0YeIG6&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;建築&lt;/a&gt;、&lt;a href=&quot;http://imgur.com/MmANDuk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;音樂&lt;/a&gt;、&lt;a href=&quot;http://imgur.com/ymWPHM6&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;藝術&lt;/a&gt;、攝影的畫冊，那叫一個口水直流啊；到了&lt;a href=&quot;http://imgur.com/FZfCezj&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;吉他那一類的書架&lt;/a&gt;下，望著滿牆各種風格的教材，我整個脊背都出了一陣冷汗，一種說不出的酸楚湧上心頭。&lt;/p&gt;
-&lt;p&gt;腦海中首先浮現的，便是曾經成都墨子橋下那家我中學時最愛的進口英文書店，那裡有各種磁帶、原版 CD、小說和雜誌。那時，至少還看得到原版的 National Geography 長什麼樣；高一時，我因為&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E4%BC%81%E9%B9%85%E5%87%BA%E7%89%88%E9%9B%86%E5%9B%A2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;企鵝出版社&lt;/a&gt;雙語版的袖珍小書而瞭解了&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E6%8B%89%E5%B0%94%E5%A4%AB%C2%B7%E6%B2%83%E5%B0%94%E5%A4%9A%C2%B7%E7%88%B1%E9%BB%98%E7%94%9F&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;愛默生&lt;/a&gt;的思想。然而，待我高考畢，再想回首去逛逛的時候，那裡已經改成了一家服裝店。痛心矣，那時的我便哀嘆道，「文化怎變得如此廉價？」&lt;/p&gt;
-&lt;p&gt;當年我剛接觸吉他這個樂器的時候，也是我對教材和譜子最渴求的時候；然而在《新華書店》一不小心就會買到那種編配得亂七八糟、和絃各種出錯的劣質譜子。流行樂都搞成這樣，何談接觸什麼爵士布魯斯？&lt;/p&gt;
-&lt;p&gt;走得那天晚上，因為是凌晨的飛機，就準備找個酒吧呆晚些直接去機場。結果走了好幾條街都沒看到酒吧的影子，幸虧有兩個年輕的小伙子很熱情地給我們帶路（英語不好甚至掏出 iPad 打字與我們交流），到了一個很酷炫的 Bar，名叫 &lt;a href=&quot;http://www.hardrock.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hard Rock CAFE&lt;/a&gt;（回來才發現它是個餐廳、酒店、賭場及 Live House 的國際連鎖品牌，詳見 &lt;a href=&quot;http://en.wikipedia.org/wiki/Hard_Rock_Cafe&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;wikipedia&lt;/a&gt;）。那晚的樂隊很專業，舞臺經驗豐富；後面甚至讓觀眾點歌，很不簡單。翻的幾乎都是些那些年爛大街的流行搖滾金曲，像&lt;a href=&quot;http://music.163.com/#/m/song?id=3950546&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;It’s My Life&lt;/em&gt;&lt;/a&gt;, &lt;a href=&quot;http://music.163.com/#/m/song?id=18317665&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Bohemian Rhapsody&lt;/em&gt;&lt;/a&gt;（當時聽到和聲前奏差點沒跳起來）, &lt;a href=&quot;http://music.163.com/#/m/song?id=4208530&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Smells Like Teen Spirit&lt;/em&gt;&lt;/a&gt;, &lt;a href=&quot;http://music.163.com/#/m/song?id=26289183&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Hotel California&lt;/em&gt;&lt;/a&gt;（貼個很少聽過的 Studio 版的）, &lt;a href=&quot;http://music.163.com/#/m/song?id=2594476&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Can’t Take My Eyes Off You&lt;/em&gt;&lt;/a&gt;（貼個 Frankie Valli 原唱的）, &lt;a href=&quot;http://music.163.com/#/m/song?id=21162545&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Enter Sandman&lt;/em&gt;&lt;/a&gt;, &lt;a href=&quot;http://music.163.com/#/m/song?id=4330347&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Zombie&lt;/em&gt;&lt;/a&gt;, 我很喜歡 Muse 的一首&lt;a href=&quot;http://music.163.com/#/m/song?id=21256138&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Hysteria&lt;/em&gt;&lt;/a&gt;, &lt;em&gt;Someone Like You&lt;/em&gt;, &lt;em&gt;Counting Stars&lt;/em&gt;……聽著那幾首 High 歌自己恨不得每首都 po 起來，氣氛不能再棒更多(也可能是我第一次聽這麼多金曲的現場翻唱太過興奮罷)。&lt;/p&gt;
-&lt;p&gt;Thiland, 有緣再會。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/47sFlSW.jpg?1&quot; alt=&quot;Imgur&quot;&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;意料之外的是，泰國與我想象中的完全不一樣。&lt;/p&gt;
-&lt;p&gt;「傳說中的普吉島、人妖、馬殺雞、金光閃耀的寺廟……」很容易聯想到「遊客聚集地、騙取眼球的奇特表演、體貼的服務與土豪的裝裱」，由此不難讓人產生一種「媚俗」的刻板印象。然而，這次畢業旅行的遊歷，從某種程度上講，顛覆了我對於自己一直習慣的這片土地的認知。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
-    
-    
-      <category term="travel" scheme="http://dyingsunbeam.com/tags/travel/"/>
     
   </entry>
   
