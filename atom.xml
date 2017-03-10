@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dyingsunbeam.com/"/>
-  <updated>2017-03-01T01:22:47.000Z</updated>
+  <updated>2017-03-10T06:11:56.000Z</updated>
   <id>http://dyingsunbeam.com/</id>
   
   <author>
@@ -14,6 +14,42 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>令人作嘔的「正能量」</title>
+    <link href="http://dyingsunbeam.com/2017/03/10/stay-away-from-zhengnengliang/"/>
+    <id>http://dyingsunbeam.com/2017/03/10/stay-away-from-zhengnengliang/</id>
+    <published>2017-03-10T04:00:00.000Z</published>
+    <updated>2017-03-10T06:11:56.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://obkshes42.bkt.clouddn.com/zhengnengliang.jpg&quot; alt=&quot;閱讀提升正能量&quot;&gt;&lt;/p&gt;
+&lt;p&gt;北京的公交站牌上隨処可見這張醜陋無比的廣告，令人赫然。&lt;/p&gt;
+&lt;p&gt;「正能量」這箇詞，毫無異義可以算作我們最厭悪的&lt;a href=&quot;https://daily.zhihu.com/story/764230&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;共產中文&lt;/a&gt;詞彙，沒有甚者。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;若是爲了提升正能量而閱讀，那我們還聴什麼舒伯特，看什麼梵高，讀什麼太宰治；乾脆只聴大調的楽曲，看 saturated 的色彩，讀某大大講話好了。再也沒有了小調楽曲和「噪音」，沒有 unsaturated 的色彩，沒有戲劇更沒有悲劇。對呀，還看什麼《紅樓夢》《金瓶梅》啊，一點正能量都沒有的垃圾。&lt;/p&gt;
+&lt;p&gt;pathetic.&lt;/p&gt;
+&lt;p&gt;好似重新回到了軍囯主義大行其道的時代，好似談審美，談多樣性，談人權、正義和禮儀都失去了意義。&lt;/p&gt;
+&lt;p&gt;terrifying.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;人們縂是喜歡把事物分爲非黑即白的兩面，而很少去審視事物本身的品質，好像如此便可以活得更輕鬆些，更具道德感一様。正能量是好的，抑鬱頹廢便是壞的；国貨是好的，日貨韓貨便是壞的；中醫是好的，西医便是壞的；天然的食物是好的，轉基因便是壞的；楽音是好的，噪音便是壞的；異性恋是好的，同性恋便是壞的……&lt;/p&gt;
+&lt;p&gt;人們還執意於時機的「正確性」：学生的任務就是学習，不能早恋；畢業了就要找工作，過兩年相親談恋爱，再過兩年結婚生子；而很少去審視人和感情本身的品質。好像如此便活得更輕鬆些，更具道德感一様。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;生而爲人，喪失 individuality，毫無審美，沒有正義感，歧視異己，牴觸新鮮事物，懼怕改変，甘於平庸……每日活在「正能量」的侵蝕下，把自己的身体拉扯得比陽光還要長，吊在光秃秃的樹枝上，如同一件毫無美感的空空的掛飾。&lt;/p&gt;
+&lt;p&gt;好害怕遇見這様的人，更害怕自己変成這様的人。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://obkshes42.bkt.clouddn.com/zhengnengliang.jpg&quot; alt=&quot;閱讀提升正能量&quot;&gt;&lt;/p&gt;
+&lt;p&gt;北京的公交站牌上隨処可見這張醜陋無比的廣告，令人赫然。&lt;/p&gt;
+&lt;p&gt;「正能量」這箇詞，毫無異義可以算作
+    
+    </summary>
+    
+      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>为什么要结婚？</title>
@@ -770,54 +806,6 @@
     
       <category term="Photo" scheme="http://dyingsunbeam.com/categories/Photo/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Why Telegram</title>
-    <link href="http://dyingsunbeam.com/2015/06/07/why-telegram/"/>
-    <id>http://dyingsunbeam.com/2015/06/07/why-telegram/</id>
-    <published>2015-06-07T07:57:46.000Z</published>
-    <updated>2016-07-09T18:53:17.000Z</updated>
-    
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://telegram.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Telegram&lt;/a&gt; 是一對老毛弟兄——Pavel and Nikolai Durov——做的一款通訊軟體，Pavel 提供金錢上和精神上的支持，Nikolai 則負責技術開發。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;感謝 Coffey 同學同我試用 Telegram。經過一天的把玩，我想小小總結一下。&lt;/p&gt;
-&lt;p&gt;唯一痛點：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;註冊及登錄的條件有且僅有「電話號碼」這一個選項。電話作為一串可能時常發生變動的數字，完全不適合用做註冊及登錄賬號，即便可以在設置里更換號碼。作為註冊賬號的另一個常用手段，不知 Email 有什麼可以挑剔的地方。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;優點：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;簡約。&lt;/li&gt;
-&lt;li&gt;快，真的快。〔速度完勝 iMessage〕&lt;/li&gt;
-&lt;li&gt;多平台同時登錄且聊天記錄無縫同步。〔完勝 Wechat, Whatsapp, etc. 〕&lt;/li&gt;
-&lt;li&gt;更適合團隊協作以及企業用戶。〔最大支持五千人的群，更方便傳輸各種原文件〕&lt;/li&gt;
-&lt;li&gt;隱私保護。Nikolai 創造了高度私密的&lt;a href=&quot;https://core.telegram.org/mtproto&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; MTProto 協議&lt;/a&gt;，並且公司還公開&lt;a href=&quot;http://www.bbc.co.uk/news/technology-25444035&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;懸賞 $200,000 給能夠 hack 這個加密系統&lt;/a&gt;的人。〔安全性幾乎超過市面上絕大多數 IM 軟體，與 iMessage 相當。很多人覺得個人隱私無所謂，偶爾被密友們詢問賬號密碼時，都是圖一時方便就直接在微信/短信上以明文的形式輸入進入系統了。你私以為只是悄悄告訴了你的朋友，但實質上你是把你的賬號密碼直接告訴了騰訊/運營商。問題是：「你究竟在多大程度上相信這些公司的道德底線不會越界？」&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;如果你恰好不喜歡在一個聊天軟件裡刷新朋友動態，如果你恰好無法忍受微信繁瑣的桌面端/多設備的登陸模式，如果你恰好苦惱於各個設備之間的消息不同步，如果你恰好在乎自己的隱私，如果你樂於嘗試新鮮事物。那麼，來同你的親友們共同體驗一下 Telegram 吧。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;The Wire 上一篇名為 &lt;a href=&quot;http://www.wired.co.uk/magazine/archive/2015/03/features/messaging-apps&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;&lt;em&gt;Messaging Apps Shouldn’t Make Money&lt;/em&gt;&lt;/a&gt; 的文章中詳細採訪了這對兄弟。有幾段對話我想摘錄分享下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;As he had posted on Facebook itself a few weeks earlier, he and his team of 12 engineers were in search of “a country that will allow us to develop our projects with privacy and freedom of speech in mind. To give you an idea of our preferences,” he wrote, &lt;strong&gt;“we dislike bureaucracy, police states, big governments, wars, socialism and excessive regulation. We like freedoms, strong judicial systems, small governments, free markets, neutrality and civil rights.”&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;He was simply a tech guy who had unwittingly waded into politics. “Obviously I do have political views – &lt;strong&gt;I’m a believer in the free-market economy; I also believe that without competition and respect for human rights there will be no progress because nobody will feel safe and free.&lt;/strong&gt; But what I’ve been trying to do is create value for our users and be honest with them. I chose to try to do the right thing. It doesn’t make sense to keep going forward without strong principles. I don’t think money is the thing that can make you go forward – it’s ideas that you believe in.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;文章的最後，更加顯現出他們無政府主義的信念：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“My advice would work for any country – don’t be bound by the opinions of others,” he replies. “The majority is almost certainly wrong. If you can, try contributing to the global market, not the local one. If you face excessive regulation or over-taxation, move to another country.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;p&gt;不要覺得這是件多麼麻煩的事，我衹是不甘心被大众的盲目選擇所「壟斷」罷了。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;a href=&quot;https://telegram.org&quot;&gt;Telegram&lt;/a&gt; 是一對老毛弟兄——Pavel and Nikolai Durov——做的一款通訊軟體，Pavel 提供金錢上和精神上的支持，Nikolai 則負責技術開發。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="Essay" scheme="http://dyingsunbeam.com/categories/Essay/"/>
-    
-    
-      <category term="tech" scheme="http://dyingsunbeam.com/tags/tech/"/>
     
   </entry>
   
